@@ -1,4 +1,0 @@
-baseURL = 'https://noeticacommunity.com/'
-languageCode = 'en-us'
-title = 'Noetica'
-theme = "hugo-brewm"
