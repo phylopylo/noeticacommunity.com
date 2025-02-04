@@ -6,10 +6,10 @@
     <description>Recent Posts in Tags on Noetica</description>
     <generator>Hugo 0.143.0</generator>
     <language>it-IT</language>
-    <managingEditor>email@example.com (Author Name)</managingEditor>
-    <webMaster>email@example.com (Author Name)</webMaster>
+    <managingEditor>noetica@philip.science (Noetica Editors)</managingEditor>
+    <webMaster>noetica@philip.science (Noetica Editors)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 23:56:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 01:01:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/it/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

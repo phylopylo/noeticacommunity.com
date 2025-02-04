@@ -6,152 +6,80 @@
     <description>Recent Posts in Tags on Noetica</description>
     <generator>Hugo 0.143.0</generator>
     <language>en-GB</language>
-    <managingEditor>email@example.com (Author Name)</managingEditor>
-    <webMaster>email@example.com (Author Name)</webMaster>
+    <managingEditor>noetica@philip.science (Noetica Editors)</managingEditor>
+    <webMaster>noetica@philip.science (Noetica Editors)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 23:56:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 01:01:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Authoring</title>
-      <link>http://localhost:1313/en/tags/authoring/</link>
+      <title>About Us</title>
+      <link>http://localhost:1313/en/tags/about-us/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/authoring/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/about-us/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Cover</title>
-      <link>http://localhost:1313/en/tags/cover/</link>
+      <title>Creative</title>
+      <link>http://localhost:1313/en/tags/creative/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/cover/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/creative/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>History</title>
-      <link>http://localhost:1313/en/tags/history/</link>
+      <title>Film</title>
+      <link>http://localhost:1313/en/tags/film/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/history/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/film/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Redaction</title>
-      <link>http://localhost:1313/en/tags/redaction/</link>
+      <title>Global Premodern</title>
+      <link>http://localhost:1313/en/tags/global-premodern/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/redaction/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/global-premodern/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Taxonomy</title>
-      <link>http://localhost:1313/en/tags/taxonomy/</link>
+      <title>Journal</title>
+      <link>http://localhost:1313/en/tags/journal/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/taxonomy/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/journal/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Terms</title>
-      <link>http://localhost:1313/en/tags/terms/</link>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/tags/publications/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/terms/</guid>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/publications/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Accent</title>
-      <link>http://localhost:1313/en/tags/accent/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/accent/</guid>
+      <title>Publishing</title>
+      <link>http://localhost:1313/en/tags/publishing/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/publishing/</guid>
       <description></description>
       
     </item>
     <item>
-      <title>Color</title>
-      <link>http://localhost:1313/en/tags/color/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/color/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Configuration</title>
-      <link>http://localhost:1313/en/tags/configuration/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/configuration/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Discussion</title>
-      <link>http://localhost:1313/en/tags/discussion/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/discussion/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Footer</title>
-      <link>http://localhost:1313/en/tags/footer/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/footer/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Logo</title>
-      <link>http://localhost:1313/en/tags/logo/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/logo/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/en/tags/markdown/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/markdown/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Menu</title>
-      <link>http://localhost:1313/en/tags/menu/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/menu/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Pagefind</title>
-      <link>http://localhost:1313/en/tags/pagefind/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/pagefind/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Slide</title>
-      <link>http://localhost:1313/en/tags/slide/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/tags/slide/</guid>
+      <title>Recruitment</title>
+      <link>http://localhost:1313/en/tags/recruitment/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <author>noetica@philip.science (Noetica Editors)</author>
+      <guid>http://localhost:1313/en/tags/recruitment/</guid>
       <description></description>
       
     </item>

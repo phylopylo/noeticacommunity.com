@@ -6,19 +6,10 @@
     <description>Artikel Terbaru dalam Categories pada Noetica</description>
     <generator>Hugo 0.143.0</generator>
     <language>id-ID</language>
-    <managingEditor>email@example.com (Author Name)</managingEditor>
-    <webMaster>email@example.com (Author Name)</webMaster>
+    <managingEditor>noetica@philip.science (Noetica Editors)</managingEditor>
+    <webMaster>noetica@philip.science (Noetica Editors)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 23:56:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 01:01:15 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/id/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authoring</title>
-      <link>http://localhost:1313/id/categories/authoring/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/id/categories/authoring/</guid>
-      <description></description>
-      
-    </item>
   </channel>
 </rss>

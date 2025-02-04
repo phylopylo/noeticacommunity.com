@@ -1,7 +1,7 @@
 [accessibility]
     other = "Accessibility"
 [accessTime]
-    other = "This page is accessed on"
+    other = "Access Date"
 [allPosts]
     other = "All posts"
 [appearance]
@@ -21,7 +21,7 @@
 [breadcrumb]
     other = "Breadcrumb"
 [buildTime]
-    other = "This page is built on"
+    other = "Publish Date"
 [bypass]
     other = "Bypass Navigation"
 [categories]
@@ -159,9 +159,9 @@
 [recent]
     other = "Recent Posts"
 [redactionHistory]
-    other = "Redaction History"
+    other = "Edit History"
 [redactionNotes]
-    other = "Some information might changes over time, we keep redaction up to date."
+    other = "Some information might change over time. We maintain a record of edits and to our posts."
 [related]
     other = "You might also like"
 [reset]

@@ -9,25 +9,7 @@
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 23:56:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 00:32:19 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/categories/authoring/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Authoring Terms Entry</title>
-      <link>http://localhost:1313/en/post/authoring-terms-entry/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/post/authoring-terms-entry/</guid>
-      <description></description>
-      
-    </item>
-    <item>
-      <title>Authoring The Redaction History</title>
-      <link>http://localhost:1313/en/post/authoring-redaction-history/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <author>email@example.com (Author Name)</author>
-      <guid>http://localhost:1313/en/post/authoring-redaction-history/</guid>
-      <description></description>
-      
-    </item>
   </channel>
 </rss>
