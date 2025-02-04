@@ -1,6 +1,6 @@
 # WebSafeFonts = true
-# logoMark = 'https://example.com/logoMark.svg'
-# logoMarkDark = 'https://example.com/logoMarkDark.svg'
+# logoMark = 'http://localhost:1313/branding/favicon.ico'
+# logoMarkDark = 'http://localhost:1313/branding/favicon.ico'
 logoType = true
 extMeta = true
 coffeeStat = false

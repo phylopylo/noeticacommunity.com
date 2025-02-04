@@ -9,4 +9,4 @@ coffee: 2
 
 
 <br>
-<strong class="section-title">Thank you for reading.</strong>
+<strong class="section-title">Created and maintained with love by <a href="https://philip.science">Philip Roberts</a>. Thank you for reading.</strong>
