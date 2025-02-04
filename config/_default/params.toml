@@ -3,7 +3,7 @@
 # logoMarkDark = 'https://example.com/logoMarkDark.svg'
 logoType = true
 extMeta = true
-coffeeStat = true
+coffeeStat = false
 
 [typeface] # webSafeFonts must be disabled
     roman = 'crimson' # available option: 'Crimson' 'Cormorant', default: 'EB Garamond'

@@ -1,7 +1,8 @@
 ---
 type: 'slide'
 title: 'This is slide'
-cover: '/28.svg'
+# cover: '/flowlines/28.svg'
+cover: '/branding/volume-2-cover.jpeg'
 weight: 1
 ---
 

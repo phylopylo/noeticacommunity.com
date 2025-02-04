@@ -1,5 +1,5 @@
 ---
-cover: '22.svg'
+cover: 'flowlines/22.svg'
 ---
 
 ## Hero Section / Greeter

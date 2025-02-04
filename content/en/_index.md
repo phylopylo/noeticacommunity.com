@@ -1,5 +1,7 @@
 ---
-cover: '/22.svg'
+# cover: '/flowlines/22.svg'
+# cover: '/branding/Noetica%20Logo.png'
+cover: '/branding/volume-one-cover.png'
 ---
 
 ## Beginning

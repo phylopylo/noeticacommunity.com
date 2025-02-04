@@ -5,7 +5,8 @@
 {{- $more := eq $menuID "more" }}
 {{- if eq $menuID "footer" }}
     {{- with index site.Menus "footer" }}
-    <nav id="menu-footer" class="has-aria-label-top" aria-label="{{ i18n "keepInTouch" }}">
+    Website maintained with love by <a href="https://philip.science">philip.science</a>
+    <!-- <nav id="menu-footer" class="has-aria-label-top" aria-label="{{ i18n "keepInTouch" }}">
         <ul role="presentation">
         {{- range . }}
             {{- $label := or .Name .Pre }}
@@ -18,7 +19,7 @@
             </li>
         {{- end }}
         </ul>
-    </nav>
+    </nav> -->
     {{- end }}
 {{- else if index site.Menus $menuID }}
 <details id="{{ printf "has-%s-menu" $menuID }}" {{ if $more }}class="presentation js-details" name="on-deck"{{ else }}class="presentation"{{ end }} {{ $open | safeHTMLAttr -}}>

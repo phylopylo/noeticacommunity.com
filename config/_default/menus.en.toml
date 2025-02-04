@@ -1,9 +1,3 @@
-[[main]]
-  name       = 'Fork!'
-  identifier = 'fork'
-  weight     = 3
-  url        = 'https://github.com/foxihd/hugo-brewm'
-  pre        = 'github'
 
 [[main]]
   name       = 'Series'
