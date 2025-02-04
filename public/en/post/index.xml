@@ -5,11 +5,11 @@
     <link>http://localhost:1313/en/post/</link>
     <description>Recent Posts in Post on Noetica</description>
     <generator>Hugo 0.143.0</generator>
-    <language>en-GB</language>
+    <language>en</language>
     <managingEditor>noetica@philip.science (Noetica Editors)</managingEditor>
     <webMaster>noetica@philip.science (Noetica Editors)</webMaster>
     <copyright>Copyright (c) Foxxi</copyright>
-    <lastBuildDate>Tue, 04 Feb 2025 01:01:15 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 01:08:22 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Board of Editors</title>
