@@ -5,6 +5,16 @@ target: 'https://example.com'
 coffee: 2
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W74K34RFKW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W74K34RFKW');
+</script>
+
 <strong class="section-title">Noetica Community<i class="icon copyleft"></i> 2025</strong>
 
 
