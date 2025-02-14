@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Tan Pearl';
+  src: url('/fonts/tan-pearl.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* TODO: Add @font-face rules for 'Noto Serif', 'Fira Code' if they are local fonts and not imported elsewhere (e.g., index.html) */
+
+:root {
+  /* Colors */
+  /* Naming convention: --color-<category>-<description> or --color-<name> */
+  --color-background: #000000;        /* Base background */
+  --color-text: #D4C8BC;             /* Primary text color - adjusted for contrast on black */
+  --color-text-muted: #A69A8F;        /* Muted text color - adjusted */
+  --color-accent: #AF7D41;          /* Primary accent (gold/brown) */
+  --color-accent-rgb: 175, 125, 65;  /* RGB version of accent color */
+  --color-accent-muted: #A67B5B;     /* Secondary accent/muted accent */
+  --color-border: rgba(var(--color-accent-rgb), 0.2); /* Border, using accent color */
+  --color-surface: rgba(0, 0, 0, 0.7);  /* Surface overlay */
+  --color-surface-light: rgba(255, 255, 255, 0.1); /* Lighter surface/border */
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-success: #10b981;          /* Success state color */
+  --color-button-text: var(--color-background); /* Text color for buttons on accent background */
+  --color-button-text-hover: var(--color-background); /* Text color for buttons on hover */
+
+  /* Typography */
+  --font-primary: 'Noto Serif', Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-heading: 'Tan Pearl', 'Playfair Display', Georgia, Cambria, "Times New Roman", Times, serif; /* Added Playfair as fallback */
+  --font-code: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+
+  /* Font Sizes (Based on 16px root) */
+  --font-size-xs: 0.75rem;    /* 12px */
+  --font-size-sm: 0.875rem;   /* 14px */
+  --font-size-base: 1rem;     /* 16px */
+  --font-size-md: 1.125rem;   /* 18px */
+  --font-size-lg: 1.25rem;    /* 20px */
+  --font-size-xl: 1.5rem;     /* 24px */
+  --font-size-2xl: 2rem;      /* 32px */
+  --font-size-3xl: 2.5rem;    /* 40px */
+  --font-size-4xl: 3rem;      /* 48px */ /* Renamed previous 2xl */
+
+  /* Line Heights */
+  --line-height-base: 1.6;
+  --line-height-tight: 1.2;
+  --line-height-relaxed: 1.8; /* Added for potential use */
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  --spacing-2xl: 4rem;
+
+  /* Layout */
+  --container-width: 1400px;
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 12px; /* Added */
+
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.5); /* Added */
+
+  /* Transitions */
+  --transition-base: all 0.3s ease;
+  --transition-transform: transform 0.3s ease;
+} 

@@ -1,0 +1,247 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--color-text);
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  max-width: 100%;
+}
+
+/* html, body {
+  width: 100%;
+  overflow-x: hidden;
+  position: relative;
+} */
+
+body {
+  font-family: var(--font-primary);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url('/art/Saint Jerome in his Study by Antonello da Messina.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-surface);
+  z-index: -1;
+}
+
+/* Root container */
+#root {
+  max-width: 85em;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  position: relative;
+}
+
+/* App container */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow-x: hidden;
+  backdrop-filter: blur(10px);
+}
+
+/* Banner */
+.banner {
+  width: 100%;
+  position: relative;
+  margin-top: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: var(--shadow-sm);
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  max-width: 100%;
+  mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent),
+              linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent),
+                      linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+}
+
+/* Main content */
+.main-content {
+  flex: 1;
+  /* padding-top: var(--spacing-lg); */
+  width: 100%;
+  max-width: 1408px;
+  margin: 0 auto;
+  overflow-x: hidden;
+  background-color: var(--color-surface);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: var(--line-height-tight);
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-accent);
+}
+
+h1 { font-size: var(--font-size-4xl); }
+h2 { font-size: var(--font-size-3xl); }
+h3 { font-size: var(--font-size-2xl); }
+h4 { font-size: var(--font-size-xl); }
+h5 { font-size: var(--font-size-lg); }
+h6 { font-size: var(--font-size-md); }
+
+/* Links */
+a {
+  text-decoration: none;
+  transition: var(--transition-base);
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-accent-muted);
+  opacity: 0.9;
+}
+
+/* Buttons */
+button, .button {
+  cursor: pointer;
+  font-family: inherit;
+  font-size: var(--font-size-base);
+  line-height: inherit;
+  border: 1px solid var(--color-border);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  transition: var(--transition-base);
+  width: 100%;
+  font-weight: 500;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  background-color: var(--color-accent);
+  color: var(--color-button-text);
+}
+
+button:hover, .button:hover {
+  background-color: var(--color-accent-muted);
+  color: var(--color-button-text-hover);
+  border-color: var(--color-accent);
+  opacity: 1;
+}
+
+/* Layout */
+.container {
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: var(--spacing-lg);
+  backdrop-filter: blur(10px);
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--color-border);
+  overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: var(--spacing-sm);
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: var(--spacing-xs);
+  }
+}
+
+/* Cards */
+.card {
+  padding: var(--spacing-lg);
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition-base);
+  backdrop-filter: blur(10px);
+  background-color: var(--color-surface-light);
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-accent);
+}
+
+/* Logo */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Blur effect for components */
+.hero, .banner, .about-hero,
+.spotlight-content, .newsletter, .journal, .journal-content,
+.journal-article, .table-of-contents, .blog-article,
+.donation-box, .article-content {
+  backdrop-filter: blur(10px);
+  background-color: rgba(0, 0, 0, 0);
+  /* border-radius: var(--border-radius-md); */
+  /* border: 1px solid var(--color-border); */
+}
+
+.main-content {
+  backdrop-filter: blur(10px);
+}
+
+/* Add base styles for code blocks if needed */
+pre, code {
+  font-family: var(--font-code);
+  font-size: var(--font-size-sm);
+  background-color: var(--color-surface);
+  padding: 0.2em 0.4em;
+  border-radius: var(--border-radius-sm);
+  color: var(--color-text-muted);
+}
+
+pre {
+  padding: var(--spacing-sm);
+  overflow-x: auto;
+} 

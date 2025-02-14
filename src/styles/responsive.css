@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .hero {
+    padding: var(--spacing-xl) 0;
+  }
+  
+  h1 { font-size: calc(var(--font-size-4xl) * 0.8); }
+  h2 { font-size: calc(var(--font-size-3xl) * 0.8); }
+  h3 { font-size: calc(var(--font-size-2xl) * 0.85); }
+  h4 { font-size: calc(var(--font-size-xl) * 0.9); }
+  
+  .container {
+    padding: var(--spacing-sm);
+  }
+  
+  .values ul {
+    grid-template-columns: 1fr;
+  }
+  
+  .team-members {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: var(--spacing-xs);
+  }
+  
+  h1 { font-size: calc(var(--font-size-4xl) * 0.7); }
+  h2 { font-size: calc(var(--font-size-3xl) * 0.7); }
+  h3 { font-size: calc(var(--font-size-2xl) * 0.75); }
+  h4 { font-size: calc(var(--font-size-xl) * 0.8); }
+  
+  .hero {
+    padding: var(--spacing-lg) 0;
+  }
+} 

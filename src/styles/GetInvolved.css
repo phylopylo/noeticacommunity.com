@@ -1,0 +1,249 @@
+.get-involved-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}
+
+.mt-5 {
+  margin-top: 3rem;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #6c757d;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.involvement-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.involvement-card {
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid var(--color-border, rgba(175, 125, 65, 0.2));
+  backdrop-filter: blur(10px);
+}
+
+.involvement-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  border-color: var(--color-accent, #AF7D41);
+}
+
+.involvement-card h2 {
+  color: var(--color-accent, #AF7D41);
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.icon {
+  color: var(--color-accent, #AF7D41);
+  margin-right: 0.5rem;
+}
+
+.involvement-card p {
+  color: var(--color-text, #D4C8BC);
+  margin-bottom: 1.5rem;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: all 0.15s ease-in-out;
+}
+
+.btn-primary {
+  color: #000;
+  background-color: var(--color-accent, #AF7D41);
+  border: 1px solid var(--color-accent, #AF7D41);
+}
+
+.btn-primary:hover {
+  background-color: var(--color-accent-muted, #A67B5B);
+  border-color: var(--color-accent-muted, #A67B5B);
+}
+
+.btn-lg {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.2rem;
+}
+
+.journal-section {
+  background-color: transparent;
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid var(--color-border, rgba(175, 125, 65, 0.2));
+  backdrop-filter: blur(10px);
+}
+
+.journal-downloads {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.journal-download-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  color: var(--color-accent, #AF7D41);
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  border: 1px solid #dee2e6;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.journal-download-btn:hover {
+  background-color: #f8f9fa;
+  border-color: var(--color-accent, #AF7D41);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.contact-section {
+  background-color: transparent;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid var(--color-border, rgba(175, 125, 65, 0.2));
+  backdrop-filter: blur(10px);
+}
+
+.contact-section a {
+  color: var(--color-accent, #AF7D41);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+}
+
+.social-media-section, .publication-section {
+  background-color: transparent;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid var(--color-border, rgba(175, 125, 65, 0.2));
+  backdrop-filter: blur(10px);
+}
+
+.social-media-section h2, .publication-section h2 {
+  color: var(--color-accent, #AF7D41);
+  font-size: 2rem;
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.social-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: var(--color-text, #D4C8BC);
+  font-weight: 500;
+  transition: transform 0.3s ease;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 150px;
+  background-color: transparent;
+  border: 1px solid var(--color-border, rgba(175, 125, 65, 0.2));
+}
+
+.social-link:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-accent, #AF7D41);
+}
+
+.social-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.instagram {
+  background-color: transparent;
+}
+
+.instagram .social-icon {
+  color: #E1306C;
+}
+
+.twitter {
+  background-color: transparent;
+}
+
+.twitter .social-icon {
+  color: #1DA1F2;
+}
+
+.publication-section p {
+  color: var(--color-text, #D4C8BC);
+}
+
+@media (max-width: 768px) {
+  .involvement-options {
+    grid-template-columns: 1fr;
+  }
+  
+  .journal-downloads {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .journal-download-btn {
+    width: 80%;
+  }
+
+  .social-media-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .social-link {
+    width: 80%;
+  }
+} 

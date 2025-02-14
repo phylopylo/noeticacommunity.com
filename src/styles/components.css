@@ -1,0 +1,58 @@
+/* Common component styles */
+.hero, .team-member, .values li {
+  text-align: center;
+  border: 1px solid;
+  transition: var(--transition-transform);
+  border-radius: var(--border-radius-md);
+}
+
+/* Hero sections */
+.hero {
+  padding: var(--spacing-2xl) 0;
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Newsletter form */
+.newsletter-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+  max-width: 250px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.newsletter-form input {
+  width: 100%;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border: 1px solid;
+  border-radius: var(--border-radius-sm);
+  text-align: center;
+}
+
+.newsletter-form input:focus {
+  outline: none;
+}
+
+/* Team member card */
+.team-member {
+  padding: var(--spacing-md);
+}
+
+.team-member:hover, .values li:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Values list */
+.values ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-sm);
+}
+
+.values li {
+  padding: var(--spacing-sm);
+} 

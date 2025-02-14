@@ -1,0 +1,102 @@
+.donation-product {
+  background-color: var(--color-surface);
+  backdrop-filter: blur(10px);
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+  transition: var(--transition-base), transform 0.2s, box-shadow 0.2s;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.donation-product:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--color-accent);
+  background-color: var(--color-surface);
+}
+
+.donation-product-content {
+  padding: var(--spacing-md);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
+.donation-image {
+  margin-bottom: var(--spacing-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.donation-image img {
+  max-width: 200px;
+  max-height: 200px;
+  object-fit: contain;
+}
+
+.donation-image-border {
+  /* border: 1px solid var(--color-border); */
+  border-radius: var(--border-radius-md);
+}
+
+.donation-title {
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-accent);
+  font-family: var(--font-heading);
+}
+
+.donation-description {
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  flex-grow: 1;
+  line-height: var(--line-height-base);
+}
+
+.donation-price {
+  font-size: var(--font-size-xl);
+  font-weight: bold;
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-accent);
+  font-family: var(--font-heading);
+}
+
+.recurring-label {
+  font-size: var(--font-size-xs);
+  font-weight: normal;
+  color: var(--color-text-muted);
+}
+
+.donation-button {
+  background-color: rgba(var(--color-accent-rgb), 0.1);
+  color: var(--color-accent);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius-sm);
+  padding: var(--spacing-xs) var(--spacing-md);
+  font-weight: bold;
+  cursor: pointer;
+  transition: var(--transition-base);
+  width: 100%;
+  backdrop-filter: blur(10px);
+  font-size: var(--font-size-base);
+  margin-top: auto;
+}
+
+.donation-button:hover {
+  background-color: rgba(var(--color-accent-rgb), 0.2);
+  border-color: var(--color-accent);
+  color: var(--color-accent-muted);
+}
+
+/* Add :root definition for RGB color if not present in variables.css */
+/* :root {
+  --color-accent-rgb: 175, 125, 65; 
+} */ 
