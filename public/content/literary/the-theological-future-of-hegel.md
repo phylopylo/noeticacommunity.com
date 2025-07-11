@@ -33,26 +33,11 @@ This is an extremely important passage for the argument I want to make. For  Pan
 
 One may object that Pannenberg should not be read as in solidarity with Idealism in  this way. He thought that Idealism *failed* to understand contingency and freedom in the  world, “the accidental character of events and … the openness of the future.”10 He thought  that the entanglement of theology and Idealism ran into a wall on the question of the future. Here I disagree. With more recent interpretations of Hegel, notably Catherine Malabou’s *The  Future of Hegel*, we can see how, in this context, we may be dealing more with *Pannenberg’s*  shortcomings, than with Hegel’s. In other words, with Malabou we can see clearly how Hegel  was sensitive to contingency and prioritized the future. 
 
-Her philosophical engagements with the anti-mechanistic conception of nature asks to  be read alongside Pannenberg’s idea of novelty contained in creation, its openness to  contingency and the future.11 For example, both Malabou and Pannenberg conceive the living  being as anticipatory in nature; it characteristically assumes a relationship to its own future. In Pannenberg’s words, “the creature relates to its own future … the future of its own  transformation.” 12 These words might just as well have come from Malabou’s reading of  Hegel which links freedom (or the being-subject of substance) to the capacity to anticipate  future transformations.13 When we return to this point, I hope to impress how startling the resemblance is between Malabou and Pannenberg’s thought, and how strange it would be to  
+Her philosophical engagements with the anti-mechanistic conception of nature asks to  be read alongside Pannenberg’s idea of novelty contained in creation, its openness to  contingency and the future.11 For example, both Malabou and Pannenberg conceive the living  being as anticipatory in nature; it characteristically assumes a relationship to its own future. In Pannenberg’s words, “the creature relates to its own future … the future of its own  transformation.” 12 These words might just as well have come from Malabou’s reading of  Hegel which links freedom (or the being-subject of substance) to the capacity to anticipate  future transformations.13 When we return to this point, I hope to impress how startling the resemblance is between Malabou and Pannenberg’s thought, and how strange it would be to leave it uninvestigated. Even though they have different theoretical agendas, Pannenberg and  Malabou mutually enliven one another. 
 
-7 Wolfhart Pannenberg, “Christian Theology and Philosophical Criticism” in *Freedom,* 131\. 8 Pannenberg, “Criticism”, 131\. 9 G. W. F. Hegel, *The Phenomenology of Spirit*, A. V. Miller, trans. (Oxford: Oxford University Press, 1977),  §17. On this point see also Todd McGown, *Emancipation After Hegel, Achieving a Contradictory Revolution*  (New York: Columbia University Press, 2019), 90f.    
-10 Wolfhart Pannenberg, *What is Man? Contemporary Anthropology in Theological Perspective*, R. A. Wilson,  trans. (Philadelphia: Fortress Press, 1970), 27, see also Pannenberg, “Hegel”, 174\. 11 See Wolfhart Pannenberg, *Faith and Reality,* John Maxwell, trans. (London: Search Press, 1977), 33\. 12 Pannenberg, *Reality*, 33\. 13 See Catherine Malabou, *The Future of Hegel, Plasticity, Temporality and Dialectic* (New York: Routledge,  2015), 12f., 38, 54, 64, 76, 126\.
+There is one more point to be made about Pannenberg’s quote above. This is that it  addresses an important objection one can make to *Faith and Knowledge* and to the  theological interpretation of it I will offer. The objection is this: if, against faith, Hegel is  arguing for the importance of philosophical knowledge, and more specifically, the importance  of *systematic closure*, doesn’t that make his project anti-theological? Originally this argument  that systematic thought excludes freedom and personality, and that it damages faith was  Jacobi’s. Hegel responds to him in *Faith and Knowledge* and indeed, Idealism generally can  be seen as a response to Jacobi’s argument about freedom and system.14 Moreover,  Pannenberg, while he is no opponent of systematic thought, did argue that the theme of  conclusiveness and closure in Hegel is his main limitation. By insisting on these  requirements, Hegel settles on a kind of immanentized eschatology which makes newness  and contingency impossible.15 Sean McGrath has recently made a similar argument. For him,  the theme of closure in Hegel, particularly his conviction that the cross of Christ is the “end  of the road” and the end of history means that there cannot be any outstanding future in his  philosophy, i.e., there cannot be any meaningful eschatology.16 But what exactly does systematic completeness mean for Hegel? What is Hegel  asking of us in *Faith and Knowledge*? I argue it is *not* what Pannenberg describes as a totality  “existing here and now in itself.” Rather it is the opposite; and the quote I cited above shows how.  
 
-
-leave it uninvestigated. Even though they have different theoretical agendas, Pannenberg and  Malabou mutually enliven one another. 
-
-There is one more point to be made about Pannenberg’s quote above. This is that it  addresses an important objection one can make to *Faith and Knowledge* and to the  theological interpretation of it I will offer. The objection is this: if, against faith, Hegel is  arguing for the importance of philosophical knowledge, and more specifically, the importance  of *systematic closure*, doesn’t that make his project anti-theological? Originally this argument  that systematic thought excludes freedom and personality, and that it damages faith was  Jacobi’s. Hegel responds to him in *Faith and Knowledge* and indeed, Idealism generally can  be seen as a response to Jacobi’s argument about freedom and system.14 Moreover,  Pannenberg, while he is no opponent of systematic thought, did argue that the theme of  conclusiveness and closure in Hegel is his main limitation. By insisting on these  requirements, Hegel settles on a kind of immanentized eschatology which makes newness  and contingency impossible.15 Sean McGrath has recently made a similar argument. For him,  the theme of closure in Hegel, particularly his conviction that the cross of Christ is the “end  of the road” and the end of history means that there cannot be any outstanding future in his  philosophy, i.e., there cannot be any meaningful eschatology.16 
-
-But what exactly does systematic completeness mean for Hegel? What is Hegel  asking of us in *Faith and Knowledge*? I argue it is *not* what Pannenberg describes as a totality  “existing here and now in itself.” Rather it is the opposite; and the quote I cited above shows  how.  
-
-For Hegel, when we encounter “gaps and absurdities”17 in the world, we are  immediately faced with the temptation to assume that there is something wrong with our  knowing faculties.18 When in the progress of knowledge something inevitably goes wrong,  we are tempted to blame the knower in order to save the integrity of the world. This was  Kant’s strategy: contradictions come from the excesses of reason, not from the  contradictoriness of the world.19 Hegel’s philosophy, much like Pannenberg’s theology, wants  to question our assumption that the world *cannot* be contradictory, that it cannot contain  “gaps and absurdities”, that it *must* be the subject which is to blame and never the object.  Against this assumption, Hegel suggests that when reason encounters contradictions, only then it is on the right path.20 Here is the most important point: for Hegel, when it comes to  determining whether there are *really* “gaps and absurdities” in the world, or whether these are  just accidental effects of our finite knowing faculties—the only way to find any solid ground  on this question is through rigorous commitment to systematic closure. Otherwise, if we are  content to leave some things unthought in an unattainable beyond, then we will *always* be  tempted to regard this unthought region as the transcendent solution to all our terrestrial  problems. This is why Hegel says, “the true is the Whole”.21 Taking the perspective of ‘the  
-
-14 Frederick Beiser, *The Fate of Reason* (Cambridge MA: Harvard University Press, 1993), 47\.  https://doi.org/10.4159/9780674020696    
-15 “There is not future God in Hegel. The future did not play an important role in his philosophy.” Wolfhart  Pannenberg, “Confessions of a Trinitarian Evolutionist,” Interview, with Jay Oord (Metanexus, 2001),  https://metanexus.net/confessions-trinitarian-evolutionist/. 16 Sean J. McGrath, *The Philosophical Foundations of the Late Schelling: The Turn to the Positive* (Edinburgh:  Edinburgh University Press, 2021), 7\. https://doi.org/10.1515/9781474410359. 17 Pannenberg, “Criticism”, 131\. 18 See, e.g., Hegel, *Phenomenology*, §118. 19 G. W. F. Hegel, *Hegel’s Logic,* William Wallace, trans. (Oxford: Oxford University Press, 1975), §48. 20 McGowan, *Emancipation* 63*,* see Hegel, *Logic*, §48, *Zusatz*. 21 Hegel, *Phenomenology,* §20.
-
-whole’ forces a sea-change on the whole world of knowing; only from this perspective do the  “gaps and absurdities” which we encounter suddenly appear *as* “gaps and absurdities” truly  inhering in the world.22 For Hegel, in *Faith and Knowledge,* it is this unattainable beyond  which serves the “ideological” (Pannenberg) function of entrenching us in whatever notions  we already have. Hegel was among the first to see how the pious humility which this kind of  faith dresses itself in is false, fetishist, and ultimately secular. Rebecca Comay puts it well.  She says, “…the dialectic”, i.e., the ‘perspective of the whole’, 
-
-is … best understood as a relentless counterfetishistic practice. Among the more subtle  fantasies Hegel punctures is the melancholic reification of the lost object as an  unattainable positivity: he demonstrates again and again that even loss can be a furtive  source of consolation.23 
+For Hegel, when we encounter “gaps and absurdities”17 in the world, we are  immediately faced with the temptation to assume that there is something wrong with our  knowing faculties.18 When in the progress of knowledge something inevitably goes wrong,  we are tempted to blame the knower in order to save the integrity of the world. This was  Kant’s strategy: contradictions come from the excesses of reason, not from the  contradictoriness of the world.19 Hegel’s philosophy, much like Pannenberg’s theology, wants  to question our assumption that the world *cannot* be contradictory, that it cannot contain  “gaps and absurdities”, that it *must* be the subject which is to blame and never the object.  Against this assumption, Hegel suggests that when reason encounters contradictions, only then it is on the right path.20 Here is the most important point: for Hegel, when it comes to  determining whether there are *really* “gaps and absurdities” in the world, or whether these are  just accidental effects of our finite knowing faculties—the only way to find any solid ground  on this question is through rigorous commitment to systematic closure. Otherwise, if we are  content to leave some things unthought in an unattainable beyond, then we will *always* be  tempted to regard this unthought region as the transcendent solution to all our terrestrial  problems. This is why Hegel says, “the true is the Whole”.21 Taking the perspective of ‘the whole’ forces a sea-change on the whole world of knowing; only from this perspective do the  “gaps and absurdities” which we encounter suddenly appear *as* “gaps and absurdities” truly  inhering in the world.22 For Hegel, in *Faith and Knowledge,* it is this unattainable beyond  which serves the “ideological” (Pannenberg) function of entrenching us in whatever notions  we already have. Hegel was among the first to see how the pious humility which this kind of  faith dresses itself in is false, fetishist, and ultimately secular. Rebecca Comay puts it well.  She says, “…the dialectic”, i.e., the ‘perspective of the whole’, is … best understood as a relentless counterfetishistic practice. Among the more subtle  fantasies Hegel punctures is the melancholic reification of the lost object as an  unattainable positivity: he demonstrates again and again that even loss can be a furtive  source of consolation.23 
 
 The modern philosophies Hegel tackles in *Faith and Knowledge* are melancholic; turned  inward, enamoured with their own loss, they console themselves. This is the meaning of  ‘faith’ in *Faith and Knowledge*. Theological readers of Hegel’s essay must understand this.  Otherwise they may mistake ‘faith’ for ‘religious faith’ *überhaupt*, whereas in truth it is a  modern phenomenon relating to the failure of ‘authentic’ religious faith to conceive itself.  With this piece of context, we can understand how Idealism can be for knowledge, against  faith, while at the same time an essentially ‘religious movement’. 
 
@@ -64,22 +49,13 @@ If Pannenberg helps us see the theological significance of Hegel’s requirement
 
 When the crucified Jesus is called the ‘image of the invisible God’, the meaning is  that *this* is God, and God is like *this.* God is not greater than he is in this humiliation.  God is not more glorious than he is in this self-surrender. God is not more powerful  than he is in this helplessness. God is not more divine than he is in this humanity.25 
 
-Here, Moltmann is bringing the idea of Incarnation to a logical halting-point; God is truly and  fully incarnated in the person of Christ. In Hegelian terms, the proposition in question is  ‘speculative,’ which means that, in it, *a double meaning turns around an image*.26 On the one  
-
-22 This argument form is right from McGowan: “When one pulls up short of the absolute and contents oneself  with not thinking systematically, contradiction seems contingent and thus not inevitable.” McGowan,  *Emancipation*, 176\. 23 Rebecca Comay, *Mourning Sickness, Hegel and the French Revolution* (Stanford: Stanford University Press,  2011), 125\. See also Hegel, *Faith,* 184\. 24 Hegel, *Faith*, 55\. 25 Jürgen Moltmann, *The Crucified God* (Minneapolis: Fortress Press, 2015), 295\. 26 Malabou, *Future,* 118\.
-
-hand, *the person of Christ is God* and he speaks with the authority specially conferred on him  by the Father. On the other hand, *God is the person of Christ,* which means that the  unfathomable glory of the Father has been condensed, crystallized, outpoured, exhausted into  *this* shape, *this* image, this ‘hypotyposis’.27 By incarnating in an image this double significance, by uniting finite and infinite, the Incarnation is in Hegel’s terms, “the primal instance of the speculative.”28 
+Here, Moltmann is bringing the idea of Incarnation to a logical halting-point; God is truly and  fully incarnated in the person of Christ. In Hegelian terms, the proposition in question is  ‘speculative,’ which means that, in it, *a double meaning turns around an image*.26 On the one  hand, *the person of Christ is God* and he speaks with the authority specially conferred on him  by the Father. On the other hand, *God is the person of Christ,* which means that the  unfathomable glory of the Father has been condensed, crystallized, outpoured, exhausted into  *this* shape, *this* image, this ‘hypotyposis’.27 By incarnating in an image this double significance, by uniting finite and infinite, the Incarnation is in Hegel’s terms, “the primal instance of the speculative.”28 
 
 The Idealist notion of the ‘speculative’ is etymologically related to notions of image  and reflections:29 “Rather than the modern intuitive idea of one’s self as being a unique and  exclusive monad, the mirror imagery should suggest that the soul becomes a better knower of  her nature as *subject* by becoming more *objective*…”30 If the absolute is a subject and not just  a substance, it will be essentially productive or self-externalizing. With the interpretive  framework which I aim to work on below, it can be gathered from this that the Hegelian idea  of the ‘speculative’ essentially involves the Christian idea of Incarnation as an Image which  gives form to the invisible God. The absolute, in Hegel, figures itself; it gives itself form.31 Hegel is fascinated by the idea of *hypotyposis*: the idea, introduced in *Faith and Knowledge*, of an *a priori* which can become incarnate without losing anything.32 Usually, we think of an  idea’s sensible expression as involving an inevitable loss of meaning compared to the pure  idea which is expressed.33 This is what Hegel is opposing *Faith and Knowledge*; the  assumption (in Fichte and Jacobi) that never shall the transcendental and the empirical meet;  that the *a priori* and the *a posteriori* are externally opposed. The goal of *Faith and  Knowledge* is to think a version of the *a priori* which is not absolutely opposed to the *a  posteriori.*34 
 
 Throughout the Christian tradition, the Incarnation has challenged this opposition. Divinity loses nothing by inhabiting a sensible form, by crystallizing or simplifying itself.35 Jesus cannot be ‘less fully God’ than the Father. Moreover, in Moltmann’s example, we can  see that a sensible expression (Jesus as the image of God), can *generate* meaning. It enriches  our knowledge of God infinitely; the expression donates form to what is being expressed. The  idea of the ‘speculative’ refers these exemplary images where there ceases to be a ‘first’ in the  relation of an expression to what is expressed.36 The speculative undoes or turns inside out37 the one-way economy of inner and outer which we typically use to understand  significations.38 It bears directly on the thought of the Incarnation; the turning point past  which there ceases to be *any* way of truly accessing God except through his image (Jn 14:6).  The speculative, at its heart, involves the destabilization of originality or primordiality.  
 
-27 See *Future*, 116\. 28 See Malabou, *Future*, 118\. See also Douglas Hedley, *Coleridge, Philosophy, and Religion* (Cambridge:  Cambridge University Press, 2000), 113\.    
-29 Hedley, *Coleridge*, 115\. 30 Hedley, *Coleridge*, 113, 173\. 31 See Eberhard Jüngel, *God as the Mystery of the World*, Darrell L. Guder, trans. (Edinburgh: T\&T Clark, LTD.,  1983), 36\. 32 Hegel, *Faith,* 69f. 33 This assumption is present throughout ‘the tradition’. See, e.g. Augustine, *The Trinity*, Edmund Hill, trans. (Hyde Park: New City Press, 1991), Bk. XV.20. Contrast with: Jüngel, *Mystery,* 4-9. 34 Hegel, *Faith,* 60, 63f. See also Jean Hyppolite, *Genesis and Structure of Hegel’s Phenomenology of Spirit* (Evanston: Northwestern University Press, 1974), 150\. 35 Hegel, “Lectures of 1824”*,* 170\. 36 See Hedley, *Coleridge,* 62\. 37 See Rebecca Comay and Frank Ruda, *The Dash, The Other Side of Absolute Knowing* (Cambridge MA: The  MIT Press, 2018), 46\. 38 Malabou, *Future*, 66\.
-
-‘Language is the *dasein* of Spirit.’39 Truth lives in the world: Hegel’s elevation of appearance  and representation gives his philosophy its underappreciated, Christian dimension. 
-
-To understand, then, the sense in which Hegel’s philosophy is Christian, we must look  to what he highlights as ‘speculative.’ We must look to texts like *Faith and Knowledge* before  we can understand his direct affirmations about Christian theology in his later writings. He  names ‘speculative’ the ideas of ‘transcendental imagination’ and ‘reflecting judgement.’40 I  want to show that *this* is where, from a theological perspective, Hegel stands or falls.  Moreover, These are ideas which are cast in new light by Malabou. Non-theological readings of Hegel are important today for continuing the tradition of theology-philosophy  entanglement represented by those like Pannenberg. 
+‘Language is the *dasein* of Spirit.’39 Truth lives in the world: Hegel’s elevation of appearance  and representation gives his philosophy its underappreciated, Christian dimension. To understand, then, the sense in which Hegel’s philosophy is Christian, we must look  to what he highlights as ‘speculative.’ We must look to texts like *Faith and Knowledge* before  we can understand his direct affirmations about Christian theology in his later writings. He  names ‘speculative’ the ideas of ‘transcendental imagination’ and ‘reflecting judgement.’40 I  want to show that *this* is where, from a theological perspective, Hegel stands or falls.  Moreover, These are ideas which are cast in new light by Malabou. Non-theological readings of Hegel are important today for continuing the tradition of theology-philosophy  entanglement represented by those like Pannenberg. 
 
 The Essence of *Faith and Knowledge* 
 
@@ -89,11 +65,7 @@ The Incarnation of God effects a total revolution in the way divinity must be  c
 
 And as we have seen, the concept of the *speculative* is Hegel’s primary image with which he mirrors philosophically the total revolution forced upon thought by Jesus and the  Incarnation. A strong version of my claim might then read as follows; there can be no serious  talk of Hegel’s relation to Christian theology which does not take on the idea of the  speculative. And in *Faith and Knowledge*, this idea comes on the scene in the form of  reflecting judgement, and transcendental imagination. At least for Hegel, *this*, is where  Idealism becomes a “religious movement.” These concepts—the Imagination, the *a priori*  capacity to produce an image, and reflecting judgement, i.e. the incorporation of life into  thought42—these are the knots which first render philosophy and theology entangled for  Hegel. We cannot understand Hegel’s version of philosophy-theology without them.  
 
-Why are these ideas theologically important? Both operate where *a priori* unity *makes  contact* with empirical manifoldness. Both powers show a crucial Hegelian theme emerging:  the “essential status of the *a posteriori*,” the foundational role of appearance.43 As structures  
-
-39 Hegel, *Phenomenology*, §652. 40 Hegel, *Faith*, 71, 86\. 41 Plato, “Timaeus” in *Timaeus and Critias*, Robin Waterfield, trans. (Oxford: Oxford University Press 2008), 29b. See also Hedley, *Coleridge*, 73, 135\. 42 See Hyppolite, *Genesis*, 49, 81, 151f., and esp. 131\. 43 Malabou, *Future*, 74\. See also Hegel, *Phenomenology*, §47.
-
-located at an intersection, a “middle” in Hegel’s words,44 reflecting judgement and  transcendental imagination constitute specific modes through which Hegel conceives the  vulnerability of the transcendental relative to experience (or the being-subject of substance).  This vulnerability is the Christian heart of Hegel’s philosophy. It relates to the Incarnation; a  theological process which likewise demonstrates the power of a Word to be as original as its  own origin. The Incarnation is the original instance of the speculative because it manifests the  power of an example to be as original as what it exemplifies, or the power of a predicate to be  as original as what it is predicated of.45 Because the Incarnation is “the primal instance of the  speculative”, it needs to be read together with the ‘speculative’ ideas of reflecting judgement  and transcendental imagination.46 
+Why are these ideas theologically important? Both operate where *a priori* unity *makes  contact* with empirical manifoldness. Both powers show a crucial Hegelian theme emerging:  the “essential status of the *a posteriori*,” the foundational role of appearance.43 As structures located at an intersection, a “middle” in Hegel’s words,44 reflecting judgement and  transcendental imagination constitute specific modes through which Hegel conceives the  vulnerability of the transcendental relative to experience (or the being-subject of substance).  This vulnerability is the Christian heart of Hegel’s philosophy. It relates to the Incarnation; a  theological process which likewise demonstrates the power of a Word to be as original as its  own origin. The Incarnation is the original instance of the speculative because it manifests the  power of an example to be as original as what it exemplifies, or the power of a predicate to be  as original as what it is predicated of.45 Because the Incarnation is “the primal instance of the  speculative”, it needs to be read together with the ‘speculative’ ideas of reflecting judgement  and transcendental imagination.46 
 
 These Kantian ideas bring us closer than anything found in Fichte or Jacobi to the  goal of *Faith and Knowledge*, which is to think, in Kant’s terms, a version of the *a priori*  which is not absolutely opposed to the *a posteriori*. In Hegel’s terms, the goal is to think a  version of the absolute which includes self-relation, the production of images (*Vorstellung* or  *Entäußerung*), or subjectivity. In theological terms, the goal is to conceive an idea of God  who does not abhor bodies, who has not left us or died.47 In short, for Hegel, everything  seems to be at stake with the speculative concepts of transcendental imagination and  reflecting judgement. These ideas are refer to how the *a priori* becomes incarnate. That being  the case, the ‘essence’ of *Faith and Knowledge* (perhaps aside from the highly provocative  opening and closing sections) ought to be looked for in the chapter on Kant.  
 
@@ -107,11 +79,7 @@ Judgement in general is the ability to think the particular as contained under t
 
 Kant’s referring to this power as *merely* reflective may seem strange because in *Faith and  Knowledge* Hegel says the following:  
 
-This is, finally, the place to exhibit the most interesting point in the Kantian system,  the point at which a region is recognized that is a middle between the empirical  manifold and the absolute abstract unity. … It is namely, in the *reflecting judgment*  
-
-44 Hegel, *Faith*, 86\. 45 Hegel, *Phenomenology*, §61. 46 Malabou, *Future,* 118\. 47 Hegel, *Faith*, 57, 60, 190\. 48 Immanuel Kant, *Critique of Judgement*, Werner S. Pluhar, trans. (Indianapolis: Hackett Publishing Company,  1987), p. 18\.
-
-that Kant finds the middle term between the concept of nature and the concept of  freedom.49 
+This is, finally, the place to exhibit the most interesting point in the Kantian system,  the point at which a region is recognized that is a middle between the empirical  manifold and the absolute abstract unity. … It is namely, in the *reflecting judgment* that Kant finds the middle term between the concept of nature and the concept of  freedom.49 
 
 These two passages do not match up. Why does Hegel call reflecting judgement the most interesting point in Kant’s system, while Kant refers to it with a ‘merely’?  
 
@@ -119,38 +87,21 @@ The need for reflecting judgement begins with the fact that the manifoldness and
 
 Why, then, does Hegel single it out as “the most interesting point” in Kant’s  philosophy?52 Reflecting judgement is important for Hegel because its necessity demonstrates  the inadequacy of determining judgement. In other words, if reflecting judgement is  necessary for any orientation in the world, it follows that the *a priori* concepts cannot be  quarantined from experience; they must rather entangle themselves within it and allow  themselves to receive form from experience as much as they donate form to it. (This turbulent  exchange between the categories and experience is what, in the *Phenomenology*, Hegel calls  *Experience*.53) Reflecting judgement, the ‘*finding out*’ of a new law or concept, points to the  insight that all forms of judgement have been originally formed or sought out, never given in  advance.54 Kant’s term for this organic formation of the *a priori*, a term Malabou assigns  great importance to, is *epigenesis*.55 The epigenesis of the categories of experience (as  opposed to their ‘preformation’) is the incorporation of life into thought. It moreover  manifests the capacity of reason to ‘figure itself’, to be its own foundation.56 If all  judgements are at least a little reflective, this means that thought must step down from its role  as a master of the world, (Hegel believes that mastery intrinsically has no future57) and it  must become more like a living being: consorting with the empirical (or to be more biblical,  the ‘lowly’), thought must become self-differentiating, organic, and always forming  anticipatory relationships to its future. In a word, substantialized concepts or laws must  become subject. 
 
-Let’s make this idea concrete. In the third *Critique* it is *life*, or “organized beings”— beings which produce themselves and cannot but appear end-oriented—these beings, in their  
-
-49 Hegel, *Faith*, 85f. 50 Kant, *Judgement*, p. 282, §75. 51 Kant, *Judgement*, p. 282, §75. 52 Hegel, *Faith*, 85\. 53 Hegel, *Phenomenology*, §86. 54 See Comay, *The Dash*, 20\. See also Robert Pippin, *Modernism as a Philosophical Problem* (Oxford:  Blackwell Publishers Ltd., 1991), 67, 70\. 55 Kant, *CPR*, B167. 56 Hegel, *Logic*, §52 57 Hegel, *Phenomenology*, §193.
-
-contingent manifoldness, upset or frustrate determining judgements of mechanistic causality  and necessity.58 The ‘desire’ of determining judgement to domesticate the world, make its  occurrences predictable is undermined by life: life ‘decorrelates thought’.59 In other words,  the desire of thought to make nature *its own*, may be satisfied by determining judgement  which, having laws/concepts already in its possession, subsumes the world under them.  (Malabou here points to Kant’s repeated use of land-entitlement metaphors to characterize the  transcendental; the critique of reason tells us which territories are our possession.60) But  against this mastery, life, by being *its own product*, forces the transcendental to transform  itself, to “become plastic”.61 It forces the reified or substantialized forms of thought to  become subject. The third *Critique*, through the “pluralisation of necessity” (mechanical and  teleological), exposes the transcendental to its own vulnerability. Life and the appearance of  self-organization compels the *finding out* of a new universal, the invention of a law.62 Instead  of making the future predictable with *a priori* syntheses, the *a posteriori* appearance of self organized beings compels the subject to anticipate another future for itself. 
+Let’s make this idea concrete. In the third *Critique* it is *life*, or “organized beings”— beings which produce themselves and cannot but appear end-oriented—these beings, in their contingent manifoldness, upset or frustrate determining judgements of mechanistic causality  and necessity.58 The ‘desire’ of determining judgement to domesticate the world, make its  occurrences predictable is undermined by life: life ‘decorrelates thought’.59 In other words,  the desire of thought to make nature *its own*, may be satisfied by determining judgement  which, having laws/concepts already in its possession, subsumes the world under them.  (Malabou here points to Kant’s repeated use of land-entitlement metaphors to characterize the  transcendental; the critique of reason tells us which territories are our possession.60) But  against this mastery, life, by being *its own product*, forces the transcendental to transform  itself, to “become plastic”.61 It forces the reified or substantialized forms of thought to  become subject. The third *Critique*, through the “pluralisation of necessity” (mechanical and  teleological), exposes the transcendental to its own vulnerability. Life and the appearance of  self-organization compels the *finding out* of a new universal, the invention of a law.62 Instead  of making the future predictable with *a priori* syntheses, the *a posteriori* appearance of self organized beings compels the subject to anticipate another future for itself. 
 
 This way, the idea of reflecting judgement opens the core of the Copernican  revolution. The laws we deploy in experience have their ground *in us*.63 We cannot deploy a  law/concept and pretend like we have nothing to do with it. (‘I don’t make the rules.’) We are  *responsible* for our judgements. Their justification refers itself to reason’s ‘self characterization’,64 or self-authorization.65 Transcendental categories are never pre-formed;  “the transcendental is subject to epigenesis, not to foundation”.66 The productive spontaneity  of thought lies open for the subject to appropriate it thus lending form to themselves.67 In the  idealist tradition, in Schelling and Hegel, it is by being self-authorizing, or self-determining,  that humans are images of God.68 Autonomy is not a threat to, but the satisfaction of Christian  doctrines.  
 
 The reason Hegel singles out reflecting judgement is because it authorizes the subject  to speculate about the unity of nature and freedom.69 It also destabilizes the fixity of  transcendental laws and pre-given forms which is the goal of speculative knowing.70 But how  does this indicate the entanglement of philosophy and theology? This question receives its  answer from the bond between Kant’s third *Critique* and Pannenberg’s theology.  
 
-Pannenberg, like Kant, also begins from the immense plurality of forms in nature, and  the contingency left undetermined by determining judgement.71 The Biblical view of reality  
-
-58 Kant, *Judgement*, p. 282, §75. Also, p. 249, §64. 59 Malabou, *Before Tomorrow*, *Epigenesis and Rationality*, Carolyn Shread, trans. (Cambridge, Polity Press,  2016), 169\. 60 Malabou, “Can We Relinquish the Transcendental” in *Plasticity, the Promise of Explosion*, Tyler M. Williams,  ed. (Edinburgh: Edinburgh University Press, 2022), 93\. See also Kant, *CPR*, A235-6. 61 Malabou, “Transcendental”, 99\. 62 Kant, *Judgement*, p. 18\. See Comay, *Mourning*, 44\. 63 C.f. Kant, *CPR*, Bxiii. 64 Hegel, *Logic*, §52. 65 Comay, *Mourning*, 59\. See also Pippin, *The Persistence of Subjectivity*, (Cambridge: Cambridge University  
-
-Press, 2005\) 44., Pippin, *Idealism*, 6\. 66 Malabou, “Epigenesis”, in *Plasticity*, 162\. Here she references Kant, *CPR*, B167. 67 Malabou, *Tomorrow*, 91\. 68 See Eberhard Jüngel, *God as the Mystery of the World*, 36\. See Schelling, *Freedom*, 18, See Hedley,  *Coleridge*, 168\. 69 Hegel, *Faith*, 86\. 70 Hegel, *Phenomenology*, §61, See Comay, Ruda, *The Dash*, 20, 24f. See also Malabou, “Dostoyevsky” in  *Plasticity*, 175\. 71 Wolfhart Pannenberg, *Toward a Theology of Nature*, *Essays on Science and Faith*, Ted Peters, ed. (Louisville:  Westminster/John Knox Press, 1993), 79\.
-
-understands events as contingent and unique.72 This means that mechanical necessity, which  makes the future predictable or visible in advance underdetermines the reality in which we  live. Just like Kant, Pannenberg points to the living being to impress this idea: 
+Pannenberg, like Kant, also begins from the immense plurality of forms in nature, and  the contingency left undetermined by determining judgement.71 The Biblical view of reality understands events as contingent and unique.72 This means that mechanical necessity, which  makes the future predictable or visible in advance underdetermines the reality in which we  live. Just like Kant, Pannenberg points to the living being to impress this idea: 
 
 …living forms have the dignity of fairly easily coming into existence for their own  sakes, as ends in themselves. This is an important aspect of their distinctive beauty. The  wealth of forms cannot be reduced to the function of adaptation to the environment, …  indeed, the reverse is true, namely, that the wealth of new forms contains as a  byproduct new possibility for utilizing the conditions of life.73 
 
-There is an unmistakable proximity to the third *Critique* in this passage. The beauty of living  creatures here refers to their instantiating a kind of “purposiveness without a purpose”,74 but  more importantly, Pannenberg sees the auto-production of novelty in nature as undermining  
-
-our ability to make nature explicable in advance, i.e., to subsume it determinately under the  category of causation. In another text, Pannenberg refers to the living being as a being which  adopts a relation to its own future. In the “self-production” of the creature, it relates “to the  future of its own transformations”.75 It is this special, auto-referential, non-mechanistic  character of life which compels us to transform our idea of causation. Mechanical causation  (or causation ‘from the past’) is inadequate which means we must venture the thought of  causation ‘from the future’. We are compelled by the future-producing organism to *ourselves*  anticipate a future transformation of our *a priori* categories.76 
+There is an unmistakable proximity to the third *Critique* in this passage. The beauty of living  creatures here refers to their instantiating a kind of “purposiveness without a purpose”,74 but  more importantly, Pannenberg sees the auto-production of novelty in nature as undermining our ability to make nature explicable in advance, i.e., to subsume it determinately under the  category of causation. In another text, Pannenberg refers to the living being as a being which  adopts a relation to its own future. In the “self-production” of the creature, it relates “to the  future of its own transformations”.75 It is this special, auto-referential, non-mechanistic  character of life which compels us to transform our idea of causation. Mechanical causation  (or causation ‘from the past’) is inadequate which means we must venture the thought of  causation ‘from the future’. We are compelled by the future-producing organism to *ourselves*  anticipate a future transformation of our *a priori* categories.76 
 
 These considerations help us understand reflecting judgement as the *finding* of a new  universal in the presence of an unassimilable manifold. At “the most interesting point”77 in  his system, Kant anticipates Pannenberg’s theological idea of *anticipatory concepts*; concepts  which anticipate their own validation.78 For Pannenberg, causation from the future is an  anticipatory concept. Just as in Kant, he allows the concept of necessity to become  vulnerable; he allows it to be reversed so that the causal efficacy of the *future* is understood to  be more fundamental than that of the past. Events do not proceed from an antecedent past but  are “eventuated from the … future.”79 This is how ‘causation from the future,’ while in the  third *Critique*, an idea strictly for reflecting judgement, invites speculative theological  interpretation.  
 
-The becoming plastic of our concepts is a theme which connects Malabou’s reading of  Hegel to Pannenberg’s theology. And this is a connection which sheds light on Hegel’s  identifying reflecting judgement as a speculative moment in Kant’s philosophy. By aligning  himself with a lineage which passes from the third *Critique* through Pannenberg’s reversal of  the concept of cause, to Malabou’s writing on the plasticity of thought, Hegel can be read as  anticipating a theological future for his own thought. The entanglement of speculative  philosophy and Christian theology is prefigured *before* Hegel writes on the ‘absolute  religion’. 
-
-72 Pannenberg, *Nature*, 21f. 73 Pannenberg, *Systematic Theology vol. II* (Edinburgh: T\&T Clark, 1991), 129\. 74 Kant, *Judgement*, p.65, §10. 75 Pannenberg, *Reality*, 33\. See also, *Theology and the Kingdom of God* (Philadelphia: Westminster Press, 1969), 68\.   
-76 Malabou, “Transcendental”, 99\. 77 Hegel, *Faith*, 85\. 78 Wolfhart Pannenberg, *Metaphysics and the Idea of God*, Philip Clayton, trans. (Grand Rapids: William B.  Eerdmans Publishing Company, 1990), 94\. See also “Hegel” in *Freedom*, 175\. 79 Pannenberg, *Kingdom*, 61, 67\. 
-
-Here is a general consideration which indicates the significance of what has just been  argued. By refusing to take God as a determinate concept but rather as the power of the future  which *operates* on our concepts, forcing on us a change in orientation, Pannenberg achieves  something remarkable. He demonstrates how a general opposition between theological  knowing and modern, critical, self-reflective knowing is unfounded. Theology is relevant in  the post-Kantian world because it involves us primarily in critical self-examination, and not  so much in the predetermined thought of a highest being. With Pannenberg, we can see how  the idealist tradition and Christian theology involve us in not opposed dynamics, but the *same*  dynamic; namely, the absence of foundation, ‘sailing on open waters, without any guarantees  above us, below us, etc,’80 in a word, freedom.  
+The becoming plastic of our concepts is a theme which connects Malabou’s reading of  Hegel to Pannenberg’s theology. And this is a connection which sheds light on Hegel’s  identifying reflecting judgement as a speculative moment in Kant’s philosophy. By aligning  himself with a lineage which passes from the third *Critique* through Pannenberg’s reversal of  the concept of cause, to Malabou’s writing on the plasticity of thought, Hegel can be read as  anticipating a theological future for his own thought. The entanglement of speculative  philosophy and Christian theology is prefigured *before* Hegel writes on the ‘absolute  religion’. Here is a general consideration which indicates the significance of what has just been  argued. By refusing to take God as a determinate concept but rather as the power of the future  which *operates* on our concepts, forcing on us a change in orientation, Pannenberg achieves  something remarkable. He demonstrates how a general opposition between theological  knowing and modern, critical, self-reflective knowing is unfounded. Theology is relevant in  the post-Kantian world because it involves us primarily in critical self-examination, and not  so much in the predetermined thought of a highest being. With Pannenberg, we can see how  the idealist tradition and Christian theology involve us in not opposed dynamics, but the *same*  dynamic; namely, the absence of foundation, ‘sailing on open waters, without any guarantees  above us, below us, etc,’80 in a word, freedom.  
 
 A) Transcendental Imagination 
 
@@ -162,11 +113,7 @@ In *Faith and Knowledge*, Hegel refers to the transcendental imagination as foll
 
 This is another case where a piece of transcendental machinery is isolated by Hegel as a high  point in Kant’s thought. We can understand why Hegel takes transcendental imagination to be  so important by investigating its *theological* significance in his philosophy. This becomes  most clear when we look to the writings of Pannenberg and Malabou. This is what I want to  show; that with these two Hegel-readers, we can see how Hegel’s relation to theology turns  around the transcendental imagination.  
 
-Pannenberg and Malabou both understand how imagination is theologically  significant, although in different ways. For Pannenberg, the imagination relates to the “ability  to detach oneself from one’s own situation”. It is a mode of “self-detachment” which  
-
-80 Hegel, *Encyclopaedia Logic* cited in Pippin, *Problem*, 67\. 81 Kant, *CPR*, B151. 82 Kant, *CPR*, A101. 83 Kant, *CPR*, A123. 84 Hegel, *Faith*, 71\.
-
-characterizes “the distinctive human openness to the future”.85 Imagination is further  connected to language as a power to bring into existence “the world of concepts … even  without an external object.”86 Imagination and language, the ability to make present  something which is absent—these form what is distinctively human, i.e., openness and  indeterminacy. Man’s activity is not confined to what is found already given. The theological  significance of this insight consists in the fact that, if man were *not* open in this way, he  would not expect from the future something that is not already given, which is to say he  would not be religious.87 Religion, for Pannenberg, depends on what Hegel calls *Vorstellung* or representation; the capacity to detach oneself from oneself,88 to ‘self-externalize’ and to  become concerned with something remote, an object of “infinite stiving”.89 This is how  Pannenberg understands the speculative and theological significance of imagination.  Imaginative openness to the world is for Pannenberg not only a condition for the possibility  of everyday experience, but also the means for knowing the absolute or God.90 
+Pannenberg and Malabou both understand how imagination is theologically  significant, although in different ways. For Pannenberg, the imagination relates to the “ability  to detach oneself from one’s own situation”. It is a mode of “self-detachment” which characterizes “the distinctive human openness to the future”.85 Imagination is further  connected to language as a power to bring into existence “the world of concepts … even  without an external object.”86 Imagination and language, the ability to make present  something which is absent—these form what is distinctively human, i.e., openness and  indeterminacy. Man’s activity is not confined to what is found already given. The theological  significance of this insight consists in the fact that, if man were *not* open in this way, he  would not expect from the future something that is not already given, which is to say he  would not be religious.87 Religion, for Pannenberg, depends on what Hegel calls *Vorstellung* or representation; the capacity to detach oneself from oneself,88 to ‘self-externalize’ and to  become concerned with something remote, an object of “infinite stiving”.89 This is how  Pannenberg understands the speculative and theological significance of imagination.  Imaginative openness to the world is for Pannenberg not only a condition for the possibility  of everyday experience, but also the means for knowing the absolute or God.90 
 
 But it is Malabou who zeros in on the distinct theological significance of Hegel’s  writing on the transcendental imagination, specifically in *Faith and Knowledge*. She focuses  on this passage from the text: 
 
@@ -176,31 +123,19 @@ Hegel is equating the transcendental imagination and the *purely spontaneous* ar
 
 Hegel connects the archetypal intellect to transcendental imagination because, taken  ‘speculatively’, they both imply the non-existence of “an existing absolute subject and an  absolute existing world”, each substantial, independent, and externally opposed to the other.94 Both the archetypal intellect and productive imagination undo the rigid opposition between *a  priori* and *a posteriori*. Because the archetypal intellect is reserved for God’s understanding,  and because Hegel equates it with transcendental imagination, Malabou draws a startling  conclusion: Hegel intends “the identity of God and transcendental imagination.”95 
 
-This may sound strange: how can transcendental imagination be the same thing as  God? Malabou here makes a complicated argument in *The Future of Hegel* which connects  the Incarnation with the imagination’s schematizing power. Before addressing that,  
-
-85 Pannenberg, *Man*, 25\. 86 Pannenberg, *Man*, 20\. 87 Pannenberg, *Man*, 10\. 88 Malabou, *Future*, 112\. 89 Pannenberg, *Man*, 10\. See also Malabou, *Future*, 120\. 90 Pannenberg, *Metaphysics*, 94\. 91 Hegel, *Faith*, 89\. 92 Kant, *Judgement*, p. 286, §76. See *CPR*, B139. 93 Kant, *CPR*, B135. 94 Hegel, *Faith*, 73\. 95 Malabou, *Future*, 127\.   
-
-considering God and the transcendental imagination together as the *a priori* capacity to  produce an image can make their identity more comprehensible.  
+This may sound strange: how can transcendental imagination be the same thing as  God? Malabou here makes a complicated argument in *The Future of Hegel* which connects  the Incarnation with the imagination’s schematizing power. Before addressing that, considering God and the transcendental imagination together as the *a priori* capacity to  produce an image can make their identity more comprehensible.  
 
 Although *Faith and Knowledge* cannot *directly* be called a theological text, it contains  several theological illustrations. In most cases, they indicate that Hegel conceives God as  essentially productive and always related to his image.96 This idea of “the inner reflexive  representation by means of which God can *as* God see himself in his image”97—this was  essential for the development of Idealism. Idealism is internally related to the Trinitarian  thought of God representing himself, or in Pannenberg’s words, God ‘detaching himself from  himself’ like humans do with their imagination.98 Thus the transcendental imagination and  God, together and in the same way, achieve the goal of *Faith and Knowledge*. They both  transcend the opposition of *a priori* and *a posteriori*.99 And Malabou shows how, for Hegel,  the specific way in which these relate is through *representation* or through an image.100 With  this we achieve clarity on why Hegel thinks that the imagination is so important—why it is  exemplarily ‘speculative’ *with* the Incarnation.  
 
 I will conclude this section by considering the infamous Helian concept of  representation or *Vorstellung*. It is important to address this concept because it will naturally  be an important point for those arguing against the idea that Hegel entangles philosophy and  theology. Representation seems like a major counterexample to my argument that Hegel’s  ultimate concerns are theological. Representation is related to alienation or externalization  (*Entäußerung*).101 The subject of representation experiences God as an unattainable beyond.  And representation is moreover opposed to philosophical thinking.102 Because of these  significances, it is often thought that Hegel wants to be done with religious representation  once and for all. It is easy to take the idea of religion as representation as the moment where  Hegel *disentangles* philosophy and theology for good. 
 
-The main problem with this reading is that calling representation a human error makes  inexplicable why Hegel understands it as inscribed within God himself.103 God represents  himself to himself. This Trinitarian point allows Hegel to establish a fundamental relationship  between modern subjectivity which represents God as unknowable and distant,104 and divine  subjectivity which engages the same process. When Hegel remarks that reason, victorious  over the faith it had vanquished, finds that “the best \[it\] … could manage” was a prolongation  of protestant melancholia (the feeling that God himself is dead),105 he establishes the  entanglement of modern philosophy and Christian theology.106 Both Protestantism and  modern philosophy struggle with their opposing the *a priori* and the *a posteriori*; God and  Incarnate reality,107 the infinite and the finite. Echoing Moltmann, Malabou says “the  suffering of God and the suffering of human subjectivity deprived of God must be analysed  as the recto and verso of the same event.”108 The modern subject who knows only that God is  unknowable is participating in the life of God who also differentiates himself from himself,  
-
-96 Hegel, *Faith*, 81, 169, 181\. 97 Schelling, *Freedom*, cited in Hedley, *Coleridge*, 73\. 98 Pannenberg, *Man*, 25\. 99 Pannenberg, *Metaphysics*, 36\. 100 Malabou, *Future*, 112f. 101 Malabou, *Future*, 111\. 102 Hegel, *Phenomenology*, §764. 103 Malabou, *Future*, 112f. 104 Malabou, *Future*, 109\. 105 Hegel, *Faith*, 55\. 106 Hegel, *Faith*, cited in Malabou, *Future*, 108\. Malabou, *Future*, 109\. 107 Malabou, *Future*, 110\. 108 Malabou, *Future*, 103\.   
-
-externalizes himself in an image: “God is this: not merely to be *in* himself, but to be just as  essentially *for* himself”.109 From this Malabou concludes that “consciousness only represents  God because *God re-presents himself*. Consciousness is only at a distance from God because  God is at a distance from himself.”110 It is clear from this that representation for Hegel is not  something which ought to be replaced by philosophy once and for all. Hegel thinks that the  process in which consciousness, through an image, ‘detaches itself from itself’111 is what  unites God and man. Moreover, when Malabou relates human representation of the divine to  God’s own self-representation, we cannot help but think of Pannenberg’s argument that God  is not just the power of the future *for us*, but also “in himself”; God relates to his own future  through self-differentiation.112 Where man does the same, where he is disoriented upon  discovering that he is his own foundation, he finds in himself an image of God.  
+The main problem with this reading is that calling representation a human error makes  inexplicable why Hegel understands it as inscribed within God himself.103 God represents  himself to himself. This Trinitarian point allows Hegel to establish a fundamental relationship  between modern subjectivity which represents God as unknowable and distant,104 and divine  subjectivity which engages the same process. When Hegel remarks that reason, victorious  over the faith it had vanquished, finds that “the best \[it\] … could manage” was a prolongation  of protestant melancholia (the feeling that God himself is dead),105 he establishes the  entanglement of modern philosophy and Christian theology.106 Both Protestantism and  modern philosophy struggle with their opposing the *a priori* and the *a posteriori*; God and  Incarnate reality,107 the infinite and the finite. Echoing Moltmann, Malabou says “the  suffering of God and the suffering of human subjectivity deprived of God must be analysed  as the recto and verso of the same event.”108 The modern subject who knows only that God is  unknowable is participating in the life of God who also differentiates himself from himself, externalizes himself in an image: “God is this: not merely to be *in* himself, but to be just as  essentially *for* himself”.109 From this Malabou concludes that “consciousness only represents  God because *God re-presents himself*. Consciousness is only at a distance from God because  God is at a distance from himself.”110 It is clear from this that representation for Hegel is not  something which ought to be replaced by philosophy once and for all. Hegel thinks that the  process in which consciousness, through an image, ‘detaches itself from itself’111 is what  unites God and man. Moreover, when Malabou relates human representation of the divine to  God’s own self-representation, we cannot help but think of Pannenberg’s argument that God  is not just the power of the future *for us*, but also “in himself”; God relates to his own future  through self-differentiation.112 Where man does the same, where he is disoriented upon  discovering that he is his own foundation, he finds in himself an image of God.  
 
 Malabou’s arguments are important because they point to an underappreciated  moment where, for Hegel, philosophy and theology are entangled: both the divine and  modern subjects determine themselves through *Entäußerung* or kenotic emptying.113 Her  arguments are also important because by understanding representation as divine and not just  human, its emancipatory function comes into view. Representation is a means of anticipating  a future. The subject cannot engage the process in which it ‘figures itself’, gives itself form,  without representing itself as ‘ahead of itself’.114 Representation makes the subject not  present to itself. By assuming a distance from itself, the subject can anticipate its future.  Representation is thus, far from a failure to think, essential to the subject’s capacity to give  itself form.115 Again, in this process of self-figuration, human being is an image of God: “God  is the event of self-determination, God is self-determination taking place.”116 
 
 The Hegelian idea of ‘representation’ should be understood along these lines. When  Malabou says that “if representation does entertain a relationship with images, this is not a  matter of the empirical image, but the image understood as a schema”117 she means that  Representation allows the subject to relate to (in Pannenberg’s words) “the future of its own  transformation”.118 In other words, Hegel’s idea of representation should not necessarily call  to mind empirical images but rather Kant’s idea of *schematism*; the activity of the  imagination which allows for the incarnation of pure concepts, their giving form to our  temporal experience.119 Representation understood this way captures exactly the kind of  relationship that God enters in his Incarnation: God assumes a relationship to his own future  by donating to modern subjectivity its very form. Without the Incarnation, we would not have  the modern subject—no Kant, Jacobi, or Fichte—the subject who differentiates itself from  itself and represents itself as ‘*ahead of itself*.’120 
 
-This strengthens Pannenberg’s conviction that the Incarnation decisively makes  anticipation the only adequate way of knowing the world.121 Moreover, Malabou also  presents a compelling case for why, in the modern world, the Incarnation of God cannot be  
-
-109 Hegel, *Lectures on the Philosophy of Religion*, cited in Malabou, *Future*, 112\. 110 Malabou, *Future*, 112\. 111 Pannenberg, *Man*, 25\. 112 Pannenberg, *Kingdom*, 63\. 113 Malabou, *Future*, 111\. 114 Malabou, *Future*, 122\. 115 Malabou, *Future*, 113\. 116 Jüngel, *Mystery*, 36\. 117 Malabou, *Future*, 113\. 118 Pannenberg, *Reality*, 33\. 119 Kant, *CPR*, B182-5. 120 Malabou, *Future*, 120\. 121 Pannenberg, *Metaphysics*, 95\. See also *Kingdom*, 54\.   
-
-forgotten or dismissed as a fiction.122 This is because, as she explicitly says, *it prefigures and  makes possible the structure of anticipation which is the modern subject.* And it lends new  force to Pannenberg’s conviction that Christian theology *does* belong to the modern world.  This is because our modern notion of freedom is related to the capacity to anticipate, make  something present which is absent. It is related to the power of the imagination.123 By  entangling so strongly the modern subject and the Incarnation—entangling through their  mutual, imaginative, self-externalization—Hegel leaves no room to doubt whether Christian  truth claims are relevant for us today.  
+This strengthens Pannenberg’s conviction that the Incarnation decisively makes  anticipation the only adequate way of knowing the world.121 Moreover, Malabou also  presents a compelling case for why, in the modern world, the Incarnation of God cannot be forgotten or dismissed as a fiction.122 This is because, as she explicitly says, *it prefigures and  makes possible the structure of anticipation which is the modern subject.* And it lends new  force to Pannenberg’s conviction that Christian theology *does* belong to the modern world.  This is because our modern notion of freedom is related to the capacity to anticipate, make  something present which is absent. It is related to the power of the imagination.123 By  entangling so strongly the modern subject and the Incarnation—entangling through their  mutual, imaginative, self-externalization—Hegel leaves no room to doubt whether Christian  truth claims are relevant for us today.  
 
 Conclusion 
 
@@ -210,27 +145,17 @@ Pannenberg carried this Idealist project into the twentieth century by understan
 
 One might then expect theologically minded people to engage philosophers like  Catherine Malabou. She is a Hegelian who also locates freedom and spontaneity in nature. She helps us understand how a free, self-organizing being can be an image of God. Malabou,  with Pannenberg, also takes the future to be the fundamental temporal axis for the living  being’s self-organization.  
 
-But if, for all these reasons, Hegel seems like a perfect fit for our apologetic situation,  why the lack of Hegel-enthusiasm in our theologies? There are no doubt endless answers to  this question, many of which will never hear a knock-down Hegelian response. But there is  one answer in particular which I hope will run its course soon. Why the lack of Hegel enthusiasm? It is because Hegel thinks religious thought is *merely* representational. He thinks  it is destined to be supplanted by rational cognition. And most importantly, this means Hegel  does not *really* believe in the immortality of the soul, the last judgement, etc. Hegel’s  
-
-122 McGowan also argues for the connection between Christianity and Modernity in *Emancipation*, 3, 143\. 123 Pannenberg, *Man*, 25\. 
-
-philosophy cannot be Christian, so the thought goes, because he disposes of its content.124 In  this essay, I hope to have offered a way of seeing how this thought misses the mark.  
+But if, for all these reasons, Hegel seems like a perfect fit for our apologetic situation,  why the lack of Hegel-enthusiasm in our theologies? There are no doubt endless answers to  this question, many of which will never hear a knock-down Hegelian response. But there is  one answer in particular which I hope will run its course soon. Why the lack of Hegel enthusiasm? It is because Hegel thinks religious thought is *merely* representational. He thinks  it is destined to be supplanted by rational cognition. And most importantly, this means Hegel  does not *really* believe in the immortality of the soul, the last judgement, etc. Hegel’s philosophy cannot be Christian, so the thought goes, because he disposes of its content.124 In  this essay, I hope to have offered a way of seeing how this thought misses the mark.  
 
 It misses the mark because for Hegel, questions of *content* (dogmatic items) are not  nearly as interesting as questions of *form*. God’s becoming man changes everything for  Hegel. This is because, when the infinite unites itself with its image, there is an anticipation  of the ‘kenotic ordeal’ of modern thinking: representation, and alienation, self-determination  through self-differentiation.125 Hegel sees the subjectivity of God bearing a relation to its own  future: the modern subject which itself, having received form from God’s Incarnation in turn,  freely assumes a relation to its own future. The subject does this, it invites the future into its  world, it anticipates future transformations, through the speculative concepts of imagination  and reflecting judgement. In the Incarnation, when ‘God sees himself in a moment’,126 these  speculative concepts receive decisive prefiguration. God prefigures a Copernican lack of  foundation (he exposes his existence to radical contingency127), he engages the spontaneous,  auto-production of justification (he gives his creation a future without a *presently* existing  reason128), which, in the modern world, it is our burden to bear.129 All this is to say that if  Hegel’s philosophy lends itself to theological interpretation, this is above all through his  appropriation of transcendental philosophy; the way he changes the form of philosophical  thinking and truth-claims.  
 
 For those invested, as I am, in the entanglement of Hegel’s idealism and Christian  theology, what Hegel personally subscribed to (e.g., whether he believed in the last  judgement) counts little. Everything stands or falls, rather, with such questions as are raised  by the speculative; a concept and its hypotyposis; questions of form, the transformability and  the becoming-incarnate of *a priori* categories. Hegel did not prescribe content to his readers.  If he were interested in content, he would have made clear pronouncements on whether  religious beliefs are valid and which ones. But he never did make clear pronouncements  about what he believed. It was Hegel’s extreme privileging of form which makes it difficult  to tell whether he is on our side or not. If Absolute knowing referred to a content, like God,  substance, or history, Hegel would be a much easier philosopher. But he would also be among  those figures of philosophical mastery which it was his aim to unseat. He would have *judged*  the previous ‘shapes of consciousness,’ instead of ‘listening’ to all of them and letting them  take their time.130 
 
-This is why it is bizarre to criticize him according to what knowledge content he lays  claim to. Hegel’s philosophy is not attached to determinate contents. “The absolute,” says  Malabou, “never occupies the place of a referent”.131 It witnesses again and again knowledge claims become transformed, the claims to substance becoming invaded by subjectivity’s self division. Echoing Pannenberg, we can say Absolute Knowing witnesses claims to the mastery  
-
-124 Michael Rosen, *The Shadow of God: Kant, Hegel, and the Passage from Heaven to History* (Cambridge,  MA: Harvard University Press, 2022), 177\. 125 Malabou, *Future*, 112\. 126 Malabou, *Future*, 118\. 127 Pannenberg, *Kingdom*, 56\. 128 Pannenberg, *Kingdom*, 65\. 129 See Comay, *Mourning*, 40f., 44, 59\. See Bernstein “Confession and Forgiveness, Hegel’s Poetics of Action” in *Beyond Representation, Philosophy and Poetic Imagination*, Richard Eldridge ed. (Cambridge: Cambridge  University Press 1996), 54\. See Pippin, *Persistence*, 44, 48\. 130 Malabou, *Future*, 124\. 131 Malabou, *Future*, 182\.
-
-over the present enter a relationship with the power of the future, the power which undoes the  arrogant self-assertiveness of finite realities.132 
+This is why it is bizarre to criticize him according to what knowledge content he lays  claim to. Hegel’s philosophy is not attached to determinate contents. “The absolute,” says  Malabou, “never occupies the place of a referent”.131 It witnesses again and again knowledge claims become transformed, the claims to substance becoming invaded by subjectivity’s self division. Echoing Pannenberg, we can say Absolute Knowing witnesses claims to the mastery over the present enter a relationship with the power of the future, the power which undoes the  arrogant self-assertiveness of finite realities.132 
 
 Does, then, the Hegelian version of philosophy-theology entanglement have a future?  Is *Faith and Knowledge* relevant for us? I have tried in this essay to propose a new angle on  this question by drawing on a seemingly unlikely duo: Catherine Malabou and Wolfhart  Pannenberg. The reason I brought them together was not only because one argues for the  future of Hegel and the other for the future of theology. It was not only because of their  mutual interest in the natural sciences, nor even solely because both of their approaches are of  a forward-looking, anticipatory character. 
 
 There is a deeper solidarity between the way they both bring their respective subject  matters—Christian theology and the philosophy of Hegel—into a relation with the future.  Hegel and Christian theology: what Malabou and Pannenberg show is that these are not  masters; neither demand compliance with a pre-existing and untouchable law; as if Christian  theology were a theory about the highest being, as if Hegel were offering a new repertoire of  determining judgements. Malabou’s Hegel and Pannenberg’s theology both challenge our  assumption that there can be such a pre-existing, impassible law. Both challenge the idea of  an origin (an *a priori*) which is external to what it originates, or what comes after (the *a  posteriori*). There is no substance which is not also subject, self-dividing and anticipatory in  nature. There is no law immune from being transformed by the reality it works on (Malabou).  And God is not a presently existing foundation of the world, but *in himself* the power of the  future, “pure freedom” (Pannenberg).133 These propositions mean the same thing. They witness the power of the future invade what we are tempted to take as a presently existing,  self-consistent foundation. By prefiguring the future of Hegel and the future of Christian  theology in the same way—namely by showing that neither Hegel nor theology present us  with an external law which we must become subsumed under—Malabou and Pannenberg,  when taken together, allow a prefiguration of the theological future of Hegel’s thought.  
-
-132 Pannenberg, *Kingdom*, 69\. 133 Pannenberg, *Kingdom*, 63\.
 
 Footnotes:
 
@@ -241,7 +166,228 @@ Footnotes:
 3 See, e.g., F. W. J. Schelling, *Philosophical Investigations into the Essence of Human Freedom* (Albany: State  University of New York Press, 2006), 18\. See also Hegel, “Lectures of 1824” in *Lectures on the Philosophy of  Religion* (Berkley: University of California Press, 1985), 171\.
 
 4 G. W. F. Hegel, “The Lectures of 1827” in *Lectures on the Philosophy of Religion*, *vol. III, The Commensurate  Religion* (Berkley: University of California Press, 1985), 262\. See also, Wolfhart Pannenberg, “The Importance  of Christian Theology in the Philosophy of Hegel” in *The Idea of God and Human Freedom* (Philadelphia: The  Westminster Press, 1973), 157f. 
-5 G. W. F. Hegel, *Faith and Knowledge,* Walter Cerf and H. S. Harris, trans. (Albany: State University of New  York Press, 1977), 57, 102ff., 169\. 6 Wolfhart Pannenberg, “Anthropology and the Question of God” in *Freedom,* 89\.
+
+5 G. W. F. Hegel, *Faith and Knowledge,* Walter Cerf and H. S. Harris, trans. (Albany: State University of New  York Press, 1977), 57, 102ff., 169\. 
+
+6 Wolfhart Pannenberg, “Anthropology and the Question of God” in *Freedom,* 89\.
+
+7 Wolfhart Pannenberg, “Christian Theology and Philosophical Criticism” in *Freedom,* 131\. 
+
+8 Pannenberg, “Criticism”, 131\. 
+
+9 G. W. F. Hegel, *The Phenomenology of Spirit*, A. V. Miller, trans. (Oxford: Oxford University Press, 1977),  §17. On this point see also Todd McGown, *Emancipation After Hegel, Achieving a Contradictory Revolution*  (New York: Columbia University Press, 2019), 90f.    
+
+10 Wolfhart Pannenberg, *What is Man? Contemporary Anthropology in Theological Perspective*, R. A. Wilson,  trans. (Philadelphia: Fortress Press, 1970), 27, see also Pannenberg, “Hegel”, 174\. 
+
+11 See Wolfhart Pannenberg, *Faith and Reality,* John Maxwell, trans. (London: Search Press, 1977), 33\. 
+
+12 Pannenberg, *Reality*, 33\. 
+
+13 See Catherine Malabou, *The Future of Hegel, Plasticity, Temporality and Dialectic* (New York: Routledge,  2015), 12f., 38, 54, 64, 76, 126\.
+
+14 Frederick Beiser, *The Fate of Reason* (Cambridge MA: Harvard University Press, 1993), 47\.  https://doi.org/10.4159/9780674020696    
+
+15 “There is not future God in Hegel. The future did not play an important role in his philosophy.” Wolfhart  Pannenberg, “Confessions of a Trinitarian Evolutionist,” Interview, with Jay Oord (Metanexus, 2001),  https://metanexus.net/confessions-trinitarian-evolutionist/. 
+
+16 Sean J. McGrath, *The Philosophical Foundations of the Late Schelling: The Turn to the Positive* (Edinburgh:  Edinburgh University Press, 2021), 7\. https://doi.org/10.1515/9781474410359. 
+
+17 Pannenberg, “Criticism”, 131\. 
+
+18 See, e.g., Hegel, *Phenomenology*, §118. 
+
+19 G. W. F. Hegel, *Hegel’s Logic,* William Wallace, trans. (Oxford: Oxford University Press, 1975), §48. 
+
+20 McGowan, *Emancipation* 63*,* see Hegel, *Logic*, §48, *Zusatz*. 
+
+21 Hegel, *Phenomenology,* §20.
+
+22 This argument form is right from McGowan: “When one pulls up short of the absolute and contents oneself  with not thinking systematically, contradiction seems contingent and thus not inevitable.” McGowan,  *Emancipation*, 176\. 
+
+23 Rebecca Comay, *Mourning Sickness, Hegel and the French Revolution* (Stanford: Stanford University Press,  2011), 125\. See also Hegel, *Faith,* 184\. 
+
+24 Hegel, *Faith*, 55\. 
+
+25 Jürgen Moltmann, *The Crucified God* (Minneapolis: Fortress Press, 2015), 295\. 
+
+26 Malabou, *Future,* 118\.
+
+44 Hegel, *Faith*, 86\. 
+
+45 Hegel, *Phenomenology*, §61. 
+
+46 Malabou, *Future,* 118\. 
+
+47 Hegel, *Faith*, 57, 60, 190\. 
+
+48 Immanuel Kant, *Critique of Judgement*, Werner S. Pluhar, trans. (Indianapolis: Hackett Publishing Company,  1987), p. 18\.
+
+49 Hegel, *Faith*, 85f. 
+
+50 Kant, *Judgement*, p. 282, §75. 
+
+51 Kant, *Judgement*, p. 282, §75. 
+
+52 Hegel, *Faith*, 85\. 
+
+53 Hegel, *Phenomenology*, §86. 
+
+54 See Comay, *The Dash*, 20\. See also Robert Pippin, *Modernism as a Philosophical Problem* (Oxford:  Blackwell Publishers Ltd., 1991), 67, 70\. 
+
+55 Kant, *CPR*, B167. 
+
+56 Hegel, *Logic*, §52 
+
+57 Hegel, *Phenomenology*, §193.
+
+58 Kant, *Judgement*, p. 282, §75. Also, p. 249, §64. 
+
+59 Malabou, *Before Tomorrow*, *Epigenesis and Rationality*, Carolyn Shread, trans. (Cambridge, Polity Press,  2016), 169\. 
+
+60 Malabou, “Can We Relinquish the Transcendental” in *Plasticity, the Promise of Explosion*, Tyler M. Williams,  ed. (Edinburgh: Edinburgh University Press, 2022), 93\. See also Kant, *CPR*, A235-6. 
+
+61 Malabou, “Transcendental”, 99\. 
+
+62 Kant, *Judgement*, p. 18\. See Comay, *Mourning*, 44\. 
+
+63 C.f. Kant, *CPR*, Bxiii. 
+
+64 Hegel, *Logic*, §52. 
+
+65 Comay, *Mourning*, 59\. See also Pippin, *The Persistence of Subjectivity*, (Cambridge: Cambridge University Press, 2005\) 44., Pippin, *Idealism*, 6\. 
+
+66 Malabou, “Epigenesis”, in *Plasticity*, 162\. Here she references Kant, *CPR*, B167. 
+
+67 Malabou, *Tomorrow*, 91\. 
+
+68 See Eberhard Jüngel, *God as the Mystery of the World*, 36\. See Schelling, *Freedom*, 18, See Hedley,  *Coleridge*, 168\. 
+
+69 Hegel, *Faith*, 86\. 
+
+70 Hegel, *Phenomenology*, §61, See Comay, Ruda, *The Dash*, 20, 24f. See also Malabou, “Dostoyevsky” in  *Plasticity*, 175\. 
+
+71 Wolfhart Pannenberg, *Toward a Theology of Nature*, *Essays on Science and Faith*, Ted Peters, ed. (Louisville:  Westminster/John Knox Press, 1993), 79\.
+
+72 Pannenberg, *Nature*, 21f. 
+
+73 Pannenberg, *Systematic Theology vol. II* (Edinburgh: T\&T Clark, 1991), 129\. 
+
+74 Kant, *Judgement*, p.65, §10. 
+
+75 Pannenberg, *Reality*, 33\. See also, *Theology and the Kingdom of God* (Philadelphia: Westminster Press, 1969), 68\.   
+
+76 Malabou, “Transcendental”, 99\. 
+
+77 Hegel, *Faith*, 85\. 
+
+78 Wolfhart Pannenberg, *Metaphysics and the Idea of God*, Philip Clayton, trans. (Grand Rapids: William B.  Eerdmans Publishing Company, 1990), 94\. See also “Hegel” in *Freedom*, 175\. 
+
+79 Pannenberg, *Kingdom*, 61, 67\. 
+
+80 Hegel, *Encyclopaedia Logic* cited in Pippin, *Problem*, 67\. 
+
+81 Kant, *CPR*, B151. 
+
+82 Kant, *CPR*, A101. 
+
+83 Kant, *CPR*, A123. 
+
+84 Hegel, *Faith*, 71\.
+
+85 Pannenberg, *Man*, 25\. 
+
+86 Pannenberg, *Man*, 20\. 
+
+87 Pannenberg, *Man*, 10\. 
+
+88 Malabou, *Future*, 112\. 
+
+89 Pannenberg, *Man*, 10\. See also Malabou, *Future*, 120\. 
+
+90 Pannenberg, *Metaphysics*, 94\. 
+
+91 Hegel, *Faith*, 89\. 
+
+92 Kant, *Judgement*, p. 286, §76. See *CPR*, B139. 
+
+93 Kant, *CPR*, B135. 
+
+94 Hegel, *Faith*, 73\. 
+
+95 Malabou, *Future*, 127\. 
+
+96 Hegel, *Faith*, 81, 169, 181\. 
+
+97 Schelling, *Freedom*, cited in Hedley, *Coleridge*, 73\. 
+
+98 Pannenberg, *Man*, 25\. 
+
+99 Pannenberg, *Metaphysics*, 36\. 
+
+100 Malabou, *Future*, 112f. 
+
+101 Malabou, *Future*, 111\. 
+
+102 Hegel, *Phenomenology*, §764. 
+
+103 Malabou, *Future*, 112f. 
+
+104 Malabou, *Future*, 109\. 
+
+105 Hegel, *Faith*, 55\. 
+
+106 Hegel, *Faith*, cited in Malabou, *Future*, 108\. Malabou, *Future*, 109\. 
+
+107 Malabou, *Future*, 110\. 
+
+108 Malabou, *Future*, 103\.
+
+109 Hegel, *Lectures on the Philosophy of Religion*, cited in Malabou, *Future*, 112\. 
+
+110 Malabou, *Future*, 112\. 
+
+111 Pannenberg, *Man*, 25\. 
+
+112 Pannenberg, *Kingdom*, 63\. 
+
+113 Malabou, *Future*, 111\. 
+
+114 Malabou, *Future*, 122\. 
+
+115 Malabou, *Future*, 113\. 
+
+116 Jüngel, *Mystery*, 36\. 
+
+117 Malabou, *Future*, 113\. 
+
+118 Pannenberg, *Reality*, 33\.
+
+119 Kant, *CPR*, B182-5. 
+
+120 Malabou, *Future*, 120\. 
+
+121 Pannenberg, *Metaphysics*, 95\. See also *Kingdom*, 54\.
+
+122 McGowan also argues for the connection between Christianity and Modernity in *Emancipation*, 3, 143\. 
+
+123 Pannenberg, *Man*, 25\. 
+
+124 Michael Rosen, *The Shadow of God: Kant, Hegel, and the Passage from Heaven to History* (Cambridge,  MA: Harvard University Press, 2022), 177\. 
+
+125 Malabou, *Future*, 112\. 
+
+126 Malabou, *Future*, 118\. 
+
+127 Pannenberg, *Kingdom*, 56\. 
+
+128 Pannenberg, *Kingdom*, 65\. 
+
+129 See Comay, *Mourning*, 40f., 44, 59\. See Bernstein “Confession and Forgiveness, Hegel’s Poetics of Action” in *Beyond Representation, Philosophy and Poetic Imagination*, Richard Eldridge ed. (Cambridge: Cambridge  University Press 1996), 54\. See Pippin, *Persistence*, 44, 48\. 
+
+130 Malabou, *Future*, 124\. 
+
+131 Malabou, *Future*, 182\.
+
+132 Pannenberg, *Kingdom*, 69\. 133 Pannenberg, *Kingdom*, 63\.
 
 Bibliography  
 
