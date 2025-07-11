@@ -13,12 +13,7 @@ But the title of the essay suggests a further theological dimension. At stake in
 
 Idealism is not only a scientific \[*wissenschaftlich*\] movement, it is above all a  religious movement. Theologians and philosophers may reject joining theology and  philosophy in a unified and systematic world view. Nevertheless, they cannot avoid  considering the Idealist movement from the standpoint of the history of religion as  an expression of Christian religious life.2 
 
-In *Faith and Knowledge*, this *entanglement* of theology and philosophy begins to take shape.  Philosophy and theology had to be entangled in some way because, unless religion could  reconcile itself to reason, it would be relegated to private feeling if not lost altogether.  Moreover, Hegel and Schelling both thought that Christian doctrines were not an obstacle to  but that they *satisfy* the requirements of freedom and autonomy.3 They thought that theology  was *not* intrinsically opposed to the new form of philosophical knowledge, i.e., criticism or  autonomous *self*\-investigation. But it takes hard work to understand how this is the case. It is  not easy to understand how Christian doctrines like God, Incarnation, and the Trinity can be  made *available* to self-legislating, autonomous knowers, how these doctrines can be taken at  all if not on blind faith or ineffable conviction. It is not clear how they address the ultimate  
-
-1 F. H. Jacobi, “Concerning the Doctrine of Spinoza in Letters to Herr Moses Mendelssohn” in *The Main  Philosophical Writings and the Novel Allwill,* George di Giovanni, trans. (Montreal & Kingston: McGill Queen’s University Press, 1994), 515, 214, 230\. 2 Paul Tillich, *The Construction of the History of Religion in Schelling’s Positive Philosophy* (London:  Associated University Press, 1974), 40\.   
-3 See, e.g., F. W. J. Schelling, *Philosophical Investigations into the Essence of Human Freedom* (Albany: State  University of New York Press, 2006), 18\. See also Hegel, “Lectures of 1824” in *Lectures on the Philosophy of  Religion* (Berkley: University of California Press, 1985), 171\.
-
-concerns of modernity. What does God mean for a form of reason which values self-mastery  above all?  
+In *Faith and Knowledge*, this *entanglement* of theology and philosophy begins to take shape.  Philosophy and theology had to be entangled in some way because, unless religion could  reconcile itself to reason, it would be relegated to private feeling if not lost altogether.  Moreover, Hegel and Schelling both thought that Christian doctrines were not an obstacle to  but that they *satisfy* the requirements of freedom and autonomy.3 They thought that theology  was *not* intrinsically opposed to the new form of philosophical knowledge, i.e., criticism or  autonomous *self*\-investigation. But it takes hard work to understand how this is the case. It is  not easy to understand how Christian doctrines like God, Incarnation, and the Trinity can be  made *available* to self-legislating, autonomous knowers, how these doctrines can be taken at  all if not on blind faith or ineffable conviction. It is not clear how they address the ultimate concerns of modernity. What does God mean for a form of reason which values self-mastery above all?  
 
 Idealism as a religious tradition is a philosophical grappling with these questions; a  kind of grappling which is necessary if the Christian tradition is to have a future in the  modern world. Hegel himself recognized this in his lectures on the philosophy of religion  where he says: “As a result of such a finite thinking and comprehending of the divine … the  fundamental doctrines of Christianity have for the most part disappeared from dogmatics.  Philosophy is preeminently, though not exclusively, what is at present essentially orthodox.”4 Here in 1827 he is recalling the same argument he introduced 25 years earlier in *Faith and  Knowledge*.5 Idealism does not recognize a sharp distinction between theology and  philosophy. This is why I will refer to theology and philosophy in Idealism as ‘entangled’. 
 
@@ -30,14 +25,7 @@ With these basic problems now on the table, I want to now turn to a sketch of th
 
 A) Wolfhart Pannenberg.  
 
-In an essay called “Christian Theology and Philosophical Criticism,” Wolfhart  Pannenberg argues that the importance of theology in the modern world relates to its power to  guard against our temptation to take the world as a complete, consistent, and self-existing  
-
-4 G. W. F. Hegel, “The Lectures of 1827” in *Lectures on the Philosophy of Religion*, *vol. III, The Commensurate  Religion* (Berkley: University of California Press, 1985), 262\. See also, Wolfhart Pannenberg, “The Importance  of Christian Theology in the Philosophy of Hegel” in *The Idea of God and Human Freedom* (Philadelphia: The  
-
-Westminster Press, 1973), 157f. 5 G. W. F. Hegel, *Faith and Knowledge,* Walter Cerf and H. S. Harris, trans. (Albany: State University of New  York Press, 1977), 57, 102ff., 169\. 6 Wolfhart Pannenberg, “Anthropology and the Question of God” in *Freedom,* 89\.
-
-
-totality. Today we are tempted to think that the world is complete and self-grounded. Against  this metaphysical temptation, Pannenberg says: 
+In an essay called “Christian Theology and Philosophical Criticism,” Wolfhart  Pannenberg argues that the importance of theology in the modern world relates to its power to  guard against our temptation to take the world as a complete, consistent, and self-existing totality. Today we are tempted to think that the world is complete and self-grounded. Against this metaphysical temptation, Pannenberg says: 
 
 When what exists here and now is represented as a totality complete in itself, the  points in which changes in it originate are neglected and disguised. As a result, the  idea of everything that is as a totality existing here and now comes to have an  ideological function. The gaps and absurdities in what now exists, which call for  change in the direction of some other possible totality, are concealed or at least  passed over by the illusion of a world which is whole and sound. What exists here  and now, taken as a totality—as a system existing here and now in itself—can only  be untruth.7 
 
@@ -243,6 +231,17 @@ Does, then, the Hegelian version of philosophy-theology entanglement have a futu
 There is a deeper solidarity between the way they both bring their respective subject  matters—Christian theology and the philosophy of Hegel—into a relation with the future.  Hegel and Christian theology: what Malabou and Pannenberg show is that these are not  masters; neither demand compliance with a pre-existing and untouchable law; as if Christian  theology were a theory about the highest being, as if Hegel were offering a new repertoire of  determining judgements. Malabou’s Hegel and Pannenberg’s theology both challenge our  assumption that there can be such a pre-existing, impassible law. Both challenge the idea of  an origin (an *a priori*) which is external to what it originates, or what comes after (the *a  posteriori*). There is no substance which is not also subject, self-dividing and anticipatory in  nature. There is no law immune from being transformed by the reality it works on (Malabou).  And God is not a presently existing foundation of the world, but *in himself* the power of the  future, “pure freedom” (Pannenberg).133 These propositions mean the same thing. They witness the power of the future invade what we are tempted to take as a presently existing,  self-consistent foundation. By prefiguring the future of Hegel and the future of Christian  theology in the same way—namely by showing that neither Hegel nor theology present us  with an external law which we must become subsumed under—Malabou and Pannenberg,  when taken together, allow a prefiguration of the theological future of Hegel’s thought.  
 
 132 Pannenberg, *Kingdom*, 69\. 133 Pannenberg, *Kingdom*, 63\.
+
+Footnotes:
+
+1 F. H. Jacobi, “Concerning the Doctrine of Spinoza in Letters to Herr Moses Mendelssohn” in *The Main  Philosophical Writings and the Novel Allwill,* George di Giovanni, trans. (Montreal & Kingston: McGill Queen’s University Press, 1994), 515, 214, 230\. 
+
+2 Paul Tillich, *The Construction of the History of Religion in Schelling’s Positive Philosophy* (London:  Associated University Press, 1974), 40\.  
+
+3 See, e.g., F. W. J. Schelling, *Philosophical Investigations into the Essence of Human Freedom* (Albany: State  University of New York Press, 2006), 18\. See also Hegel, “Lectures of 1824” in *Lectures on the Philosophy of  Religion* (Berkley: University of California Press, 1985), 171\.
+
+4 G. W. F. Hegel, “The Lectures of 1827” in *Lectures on the Philosophy of Religion*, *vol. III, The Commensurate  Religion* (Berkley: University of California Press, 1985), 262\. See also, Wolfhart Pannenberg, “The Importance  of Christian Theology in the Philosophy of Hegel” in *The Idea of God and Human Freedom* (Philadelphia: The  Westminster Press, 1973), 157f. 
+5 G. W. F. Hegel, *Faith and Knowledge,* Walter Cerf and H. S. Harris, trans. (Albany: State University of New  York Press, 1977), 57, 102ff., 169\. 6 Wolfhart Pannenberg, “Anthropology and the Question of God” in *Freedom,* 89\.
 
 Bibliography  
 
