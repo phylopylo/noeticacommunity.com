@@ -1,4 +1,4 @@
-Title: Submission to Religion and Existentialism
+Title: Religious Mythopoeia and Existentialism
 Author: George French
 Published: 7/06/25
 Category: Essays
