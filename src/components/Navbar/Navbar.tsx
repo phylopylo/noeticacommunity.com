@@ -23,6 +23,11 @@ const Navbar = () => {
         <Link to="/about" className="nav-item">
           <span>About</span>
           <img src="/art/The painted panel the Flagellation of Christ by the Italian Renaissance artist Piero della Francesca (c. 1420-1492 CE). c. 1455 CE. (National Gallery of Marche, Urbino).jpg" alt="About" className="nav-image" />
+        </Link>        
+
+        <Link to="/merchandise" className="nav-item">
+          <span>Merchandise</span>
+          <img src="/art/vouet-judith.jpg" alt="merchandise" className="nav-image" />
         </Link>
       </div>
     </nav>
