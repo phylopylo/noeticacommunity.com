@@ -24,8 +24,8 @@ const GetInvolved = () => {
             We welcome submissions of poetry, fiction, essays, and other literary forms.
             Share your voice with our community.
           </p>
-          <a href="mailto:submissions@noeticacommunity.com" className="btn btn-primary">
-            submissions@noeticacommunity.com
+          <a href="mailto:emsah@wm.edu" className="btn btn-primary">
+            emsah@wm.edu
           </a>
         </div>
 
@@ -37,8 +37,8 @@ const GetInvolved = () => {
             Participate in our creative competitions and showcase your artistic talents.
             Submit your entries for a chance to be featured.
           </p>
-          <a href="mailto:creative@noeticacommunity.com" className="btn btn-primary">
-            creative@noeticacommunity.com
+          <a href="mailto:emsah@wm.edu" className="btn btn-primary">
+            emsah@wm.edu
           </a>
         </div>
 
@@ -50,8 +50,8 @@ const GetInvolved = () => {
             Join our team! We're always looking for editors, reviewers, and volunteers to help with
             our publications and events.
           </p>
-          <a href="mailto:recruiting@noeticacommunity.com" className="btn btn-primary">
-            recruiting@noeticacommunity.com
+          <a href="mailto:emsah@wm.edu" className="btn btn-primary">
+            emsah@wm.edu
           </a>
         </div>
       </div>

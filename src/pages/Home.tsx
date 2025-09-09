@@ -125,6 +125,11 @@ const Home = () => {
             <span><a href="https://philip.science" target="_blank" rel="noopener noreferrer">Philip Roberts</a></span>
             <span>Travis Slocumb</span>
             <span>Ethan Sah</span>
+            <span>Leah Kaleb</span>
+            <span>Theodore Pappas van de Verg</span>
+            <span>Chiara Moran</span>
+            <span>Calvin Auby</span>
+            <span>Can Saglam</span>
           </div>
         </section>
 
