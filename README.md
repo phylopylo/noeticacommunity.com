@@ -62,7 +62,6 @@ Files in the `public` directory are copied to the root of the `dist` directory d
     *   `rehype-raw`, `rehype-sanitize`, `rehype-slug` for HTML processing within Markdown.
     *   Potentially `pdfjs-dist` for PDF handling.
 *   **State Management/Utilities:**
-    *   `use-shopping-cart` (Suggests e-commerce features)
     *   `front-matter` for parsing metadata from files.
 *   **Linting/Formatting:** ESLint configured via `config/eslint.config.js`.
 *   **Icons:** Font Awesome, React Icons
